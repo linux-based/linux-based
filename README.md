@@ -8,7 +8,21 @@
     <h1>Riker</h1>
       <p>Current Other Alias(es): Archer, T'Pol</p>
       <p>Please do call me by the name whatever character I am playing as in a game.</p>
-      <p>identities (flags names and links)</p>
+      <p>
+        <a href="https://salmacian.org/"><img title="Salmacian" src="https://github.com/user-attachments/assets/1d3fa01c-c28a-4d97-aaed-4ae68d6937a0"></a>
+        <a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>
+        <a href="https://nonbinary.wiki/wiki/Multigender"><img title="Multigender" src="https://github.com/user-attachments/assets/58234007-2e1c-4155-8d72-76b45b0fbd5a"></a><br>
+        <a href="https://antifandom.com/lgbtqia/wiki/Polyamorous"><img title="Polyamory" src="https://github.com/user-attachments/assets/1d9372b0-416b-4b6a-8058-818b06d94a7c"></a>
+        <a href="https://antifandom.com/lgbtqia/wiki/Pansexual"><img title="Pansexual" src="https://github.com/user-attachments/assets/abaecee3-cbaf-485d-aa30-a103e2789010"></a>
+        <a href="https://antifandom.com/lgbtqia/wiki/Abrosexual"><img title="Abrosexual" src="https://github.com/user-attachments/assets/a397d219-8dd2-43d3-a74e-7ce3ef57ff9b"></a>
+        <a href="https://lgbtqia.wiki/wiki/Neverisexual"><img title="Neverisexual" src="https://github.com/user-attachments/assets/e4070abd-5327-4aac-9f81-2cb1f3b3b559"></a><br>
+        <a href="https://antifandom.com/lgbtqia/wiki/Abroromantic"><img title="Abroromantic" src="https://github.com/user-attachments/assets/6311cb79-efad-4ccf-8f5f-0a3835e7e5b7"></a>
+        <a href="https://antifandom.com/lgbtqia/wiki/Demiromantic"><img title="Demiromantic" src="https://github.com/user-attachments/assets/56f0d61b-c4f8-4130-bc2d-eb636362764d"></a><br>
+        <a href="https://paraflags-wiki.org/index.php/General_paraphilia_flags"><img title="Paraphilia" src="https://github.com/user-attachments/assets/f17b2688-4847-4bff-be32-3a4520bf83e4"></a>
+        <a href="https://paraflags-wiki.org/index.php/Fictophilia_flags"><img title="Fictophilia" src="https://github.com/user-attachments/assets/fc8b4a07-badd-4f55-9c99-21ab3659d0ff"></a>
+        <a href="https://paraflags-wiki.org/index.php/Flags_for_types_of_objectophilia"><img title="Objectophilia (Objectum)" src="https://github.com/user-attachments/assets/ab6419d9-c4ca-4924-95e4-9b5d1454116e"></a>
+        <a href=""><img title="Technophilia (Techtum)" src="https://github.com/user-attachments/assets/041edf31-f091-4946-92a7-bdeca09e3098"></a>
+      </p>
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
     <div>Important</div>
       <details><summary></summary>
