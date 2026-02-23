@@ -7,7 +7,7 @@
   <img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0">
     <h1>Riker</h1>
       <p>Current Other Alias(es): Archer, T'Pol</p>
-      <p>Please do call me by the name whatever character I am playing as in a game.</p>
+      <p>Please <em>do</em> call me by the name whatever character I am playing as in games.</p>
       <p>
         <a href="https://salmacian.org/"><img title="Salmacian" src="https://github.com/user-attachments/assets/1d3fa01c-c28a-4d97-aaed-4ae68d6937a0"></a>
         <a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>
@@ -30,7 +30,7 @@
           <tr>
             <td><p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
               <p>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> & suspect AuDHD.</p>
-              <p>[sp thing]</p>
+              <p>I am not a system. I am a person with highly-developed trauma-based parts/psychological states (EX: defensive, protective, abrasive, care-taking, logical, etc.). Please be aware that I feel, act & percieve the world differently between these states & I will use fictional characters to represent these states because it works for me. Please do not call me a system. I am still the same person on the inside, and it is painful for me to attempt to further compartmentalize my emotions.</p>
             </td>
           </tr>
         </TABLE>
@@ -61,6 +61,9 @@
       </details>
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
     <div>Blinkie Hoard</div>
+      <details><summary></summary>
+        <img>
+      </details>
   <img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><br><br>
 <code>Feel free to use any code on this page or ask. It's open source and that's something I believe in.</code>
 </div>
