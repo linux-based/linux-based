@@ -30,11 +30,64 @@
           <tr>
             <td><p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
               <p>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> & suspect AuDHD.</p>
-              <p>I have parts/psychological/emotional states that cause me to feel, act & percieve the world differently. My brain tends to latch onto fictional characters to express these states. Please do not call me a system. I am still the same person on the inside, and it is painful for me to attempt to further compartmentalize my emotions.</p>
             </td>
           </tr>
         </TABLE>
       </details>
+<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+      <TABLE BORDER>
+        <tr>
+          <td><div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
+            <div><strong>Current - Writing/reading & making art</strong></div>
+            <div>Other - Coding, math, science, martial arts</div>
+            <div>🎵 Music - Metal, progressive rock, [blank]wave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br><br>
+            <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
+            <div><strong>Star Trek</strong></div>
+            <div>Transformers</div>
+            <div>OS-tan</div>
+            <div>Stargate</div>
+          </td>
+        </tr>
+      </TABLE>
+    <!--</details>-->
+<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+  <p>${{\color{#fffff}\Huge{\textsf{Favorite Characters}}}}$<br>
+    ${\textsf{\color{#E92E49}William Riker}}$<br>
+    ${\textsf{\color{#9796EA}Wesley Crusher}}$<br>
+    ${\textsf{\color{#CCB4C5}Gul Dukat}}$<br>
+    ${\textsf{\color{#FFB74C}Jim Kirk}}$<br>
+    ${\textsf{\color{#5EBDFC}Bradward Boimler}}$<br>
+    ${\textsf{\color{#F5DC7A}Reginald Barclay}}$<br>
+    ${\textsf{\color{#D37A47}Tuvok}}$<br>
+    ${\textsf{\color{#e54b3b}Kathryn Janeway}}$<br>
+    ${\textsf{\color{#BD1111}Benjamin Sisko}}$<br>
+    ${\textsf{\color{#971DAF}Megatron}}$<br>
+    ${\textsf{\color{#5472CC}Ultra Magnus}}$<br>
+    ${\textsf{\color{#6DC171}Din Djarin}}$<br>
+    ${\textsf{\color{#9EA4B1}TARS}}$<br>
+    ${\textsf{\color{#feca5f}Jonathan Archer}}$<br>
+    ${\textsf{\color{#efd2ef}Seven of Nine}}$<br>
+  </p>
+<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+  <p>${{\color{#fffff}\Huge{\textsf{Favorite Ships}}}}$<br>
+      Current Hyperfix: ${\textsf{\color{#831d5a}Archepol}}$<br>
+      OTP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
+      OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
+      Old Faves: ${\textsf{\color{#D0D9FA}Megastar}}$ & ${\textsf{\color{#B2A7F9}Obikin}}$<br>
+      ${\textsf{\color{#F9B448}Kirk/Spock}}$<br>
+      ${\textsf{\color{#822020}Dukat/Sisko}}$ (Disko hehe) <img width="10" height="10" alt="discoBall" src="https://github.com/user-attachments/assets/1031b16b-fe7c-454a-9cbf-6a9c0e7972df"><br>
+      ${\textsf{\color{#208258}Garashir}}$<br>
+      ${\textsf{\color{#F8CD4F}DaForge}}$<br>
+      ${\textsf{\color{#684FF8}Boimler/Ransom}}$<br>
+      ${\textsf{\color{#CE9BD3}Dukat/Ziyal}}$<br>
+      ${\textsf{\color{#FB5D5D}Data/Riker}}$<br>
+      ${\textsf{\color{#E4BF2F}Jiles}}$<br>
+      ${\textsf{\color{#FD99D0}P/K}}$<br>
+      ${\textsf{\color{#F033AB}JSeveeeennnn}}$<br>
+      ${\textsf{\color{#4112A8}Wavewave}}$<br>
+      ${\textsf{\color{#F48732}Rodimags}}$<br>
+      ${\textsf{\color{#9ED1FA}Opbee}}$<br>
+  </p>
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
     <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"></div>
       <details><summary></summary>
