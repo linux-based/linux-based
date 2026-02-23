@@ -24,7 +24,7 @@
         <a href=""><img title="Technophilia (Techtum)" src="https://github.com/user-attachments/assets/041edf31-f091-4946-92a7-bdeca09e3098"></a>
       </p>
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
-    <div>Important</div>
+  <div><img width="94" height="29" alt="Important" src="https://github.com/user-attachments/assets/cabf4a1f-5757-46ee-a514-04285b2bf250"></div>
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
@@ -36,7 +36,7 @@
         </TABLE>
       </details>
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
-    <div>Boundaries</div>
+    <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"></div>
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
@@ -48,7 +48,7 @@
         </TABLE>
       </details>
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
-    <div>Social Media</div>
+    <div><img width="103" height="29" alt="Social Media" src="https://github.com/user-attachments/assets/69c2a17e-fcd4-43a9-9b44-715906f004a3"></div>
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
@@ -60,7 +60,7 @@
         </TABLE>
       </details>
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
-    <div>Blinkie Hoard</div>
+    <div><img width="105" height="29" alt="Blinkie Hoard" src="https://github.com/user-attachments/assets/435e03a7-033e-4000-ab4b-d23740a0ccf5"></div>
       <details><summary></summary>
         <img>
       </details>
