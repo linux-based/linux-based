@@ -30,7 +30,7 @@
           <tr>
             <td><p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
               <p>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> & suspect AuDHD.</p>
-              <p>I am not a system. I am a person with highly-developed trauma-based parts/psychological states (EX: defensive, protective, abrasive, care-taking, logical, etc.). Please be aware that I feel, act & percieve the world differently between these states & I will use fictional characters to represent these states because it works for me. Please do not call me a system. I am still the same person on the inside, and it is painful for me to attempt to further compartmentalize my emotions.</p>
+              <p>I have parts/psychological/emotional states that cause me to feel, act & percieve the world differently. My brain tends to latch onto fictional characters to express these states. Please do not call me a system. I am still the same person on the inside, and it is painful for me to attempt to further compartmentalize my emotions.</p>
             </td>
           </tr>
         </TABLE>
