@@ -40,7 +40,7 @@
           <td><div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
             <div><strong>Current - Writing/reading & making art</strong></div>
             <div>Other - Coding, math, science, martial arts</div>
-            <div>🎵 Music - Metal, progressive rock, [blank]wave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br><br>
+            <div>🎵 Music - Metal, progressive rock, [blank]wave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
             <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
             <div><strong>Star Trek</strong></div>
             <div>Transformers</div>
