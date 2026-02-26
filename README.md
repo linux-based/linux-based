@@ -28,8 +28,8 @@
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
-            <td><p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
-              <p>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> & suspect AuDHD.</p>
+            <td><p align="center">I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
+              <p align="center">I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> & suspect AuDHD.</p>
             </td>
           </tr>
         </TABLE>
@@ -37,15 +37,17 @@
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
       <TABLE BORDER>
         <tr>
-          <td><div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
+          <td><div align="center">${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
             <div><strong>Current - Writing/reading & making art</strong></div>
             <div>Other - Coding, math, science, martial arts</div>
-            <div>🎵 Music - Metal, progressive rock, [blank]wave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
+            <div>🎵 Music - Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
             <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
             <div><strong>Star Trek</strong></div>
+            <div>Stargate</div>
             <div>Transformers</div>
             <div>OS-tan</div>
-            <div>Stargate</div>
+            <div>Robot Unicorn Attack</div>
+            <div>Star Wars</div>
           </td>
         </tr>
       </TABLE>
@@ -70,7 +72,7 @@
   </p>
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
   <p>${{\color{#fffff}\Huge{\textsf{Favorite Ships}}}}$<br>
-      Current Hyperfix: ${\textsf{\color{#831d5a}Archepol}}$<br>
+      Current Hyperfix: ${\textsf{\color{#831d5a}Archepol}}$ & ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
       OTP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
       OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
       Old Faves: ${\textsf{\color{#D0D9FA}Megastar}}$ & ${\textsf{\color{#B2A7F9}Obikin}}$<br>
