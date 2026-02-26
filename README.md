@@ -129,7 +129,35 @@
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
     <div><img width="105" height="29" alt="Blinkie Hoard" src="https://github.com/user-attachments/assets/435e03a7-033e-4000-ab4b-d23740a0ccf5"></div>
       <details><summary></summary>
-        <img>
+        <img alt="AUTOBOT" src="https://github.com/user-attachments/assets/84760ab3-fb62-4ffb-8b86-8fe2f9dfafdd">
+        <img alt="robotInDisguise" src="https://github.com/user-attachments/assets/7cd6e8f5-f6e5-49ae-86c8-8ce8272ae2c5">
+        <img alt="DECEPTICON" src="https://github.com/user-attachments/assets/35fe217f-e2f3-4590-9a6c-bd4f76160285">
+        <img alt="Decepitcon2" src="https://github.com/user-attachments/assets/b2d76798-205e-4bba-9386-bc581515ef44" height="20">
+        <br>
+        <img alt="finalFrontier" src="https://github.com/user-attachments/assets/c156d0f5-1a8e-40f9-af63-b0a0e0677bd4">
+        <img alt="worfIAmNotAMerryMan" src="https://github.com/user-attachments/assets/7d87a76e-a1ce-4ca7-afdf-7c5b2883d52a">
+        <img alt="borg" src="https://github.com/user-attachments/assets/3cc5897b-a763-480c-8a41-2866d74b0d1e">
+        <img alt="spock" src="https://github.com/user-attachments/assets/f2b81346-3753-4470-955d-0466df918f63">
+        <br>
+        <img alt="startrekgeek" src="https://github.com/user-attachments/assets/31fef420-72d9-4f34-b2c8-0d523a105033">
+        <img alt="TNG2" src="https://github.com/user-attachments/assets/eab66fd1-9d05-49f8-9275-0ce7c12229fd">
+        <img alt="TNG3" src="https://github.com/user-attachments/assets/eff6ce8c-9e64-43cf-b8f5-3c33455589bb">
+        <img alt="starTrek" src="https://github.com/user-attachments/assets/b81523e1-ce89-4394-911f-8fda85aba0d6">
+        <br>
+        <img alt="assimilate" src="https://64.media.tumblr.com/7ded95454aac4524b9bd14de67e94d7e/52670ea059f92c0f-b5/s250x400/d029aeabe4f2460df9f818bb430da0874d433b14.gifv">
+        <img alt="starTrek2" src="https://github.com/user-attachments/assets/bca16637-a6cc-4d37-80e4-84fa614cf60c">
+        <img alt="boldyGo" src="https://github.com/user-attachments/assets/a202856e-7324-4163-aab7-43b85c4b2cbb">
+        <img alt="starTrekDS9Style" src="https://64.media.tumblr.com/e29499103969062a8a519dab569fd513/52670ea059f92c0f-14/s250x400/bc11067d7ca49f30740984a42506ca04509370dc.gifv" height="20">
+        <br>
+        <img alt="pirateLife" src="https://github.com/user-attachments/assets/1c98b3e7-413b-4f67-b9ef-802a20df0521">
+        <img alt="kickassTorrent" src="https://github.com/user-attachments/assets/9e62a6f3-2a23-40f6-88e6-754c6cb9adbf">
+        <img alt="linuxIsBetter" src="https://github.com/user-attachments/assets/81425a8f-c0e0-4823-8279-9c3f987452c8" height="20">
+        <img alt="uTorrent" src="https://github.com/user-attachments/assets/5098819b-c957-4f86-b9c9-0f7e158fbf0d">
+        <br>
+        <img alt="SALS" src="https://github.com/user-attachments/assets/11d18bc2-9a7a-4008-b8d9-39ca8903cff5">
+        <img alt="antiHarassment" src="https://github.com/user-attachments/assets/42ff22d2-7446-4974-8238-0891d37710a8">
+        <img alt="chronicProshipper" src="https://github.com/user-attachments/assets/0666ba63-4793-488e-bfcb-7428497fa5cb" height="20">
+        <img alt="dontLikeItClickX" src="https://github.com/user-attachments/assets/6a9ff022-9c6a-4e52-8e16-0016b83b26bc">
       </details>
   <img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><br><br>
 <code>Feel free to use any code on this page or ask. It's open source and that's something I believe in.</code>
