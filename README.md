@@ -37,17 +37,20 @@
 <img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
       <TABLE BORDER>
         <tr>
-          <td><div align="center">${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
-            <div><strong>Current - Writing/reading & making art</strong></div>
-            <div>Other - Coding, math, science, martial arts</div>
-            <div>🎵 Music - Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
-            <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
-            <div><strong>Star Trek</strong></div>
-            <div>Stargate</div>
-            <div>Transformers</div>
-            <div>OS-tan</div>
-            <div>Robot Unicorn Attack</div>
-            <div>Star Wars</div>
+          <td>
+            <div align="center">
+              <div align="center">${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
+              <div align="center"><strong>Current - Writing/reading & making art</strong></div>
+              <div align="center">Other - Coding, math, science, martial arts</div>
+              <div align="center">🎵 Music - Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
+              <div align="center">${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
+              <div align="center"><strong>Star Trek</strong></div>
+              <div align="center">Stargate</div>
+              <div align="center">Transformers</div>
+              <div>OS-tan</div>
+              <div>Robot Unicorn Attack</div>
+              <div>Star Wars</div>
+            </div>
           </td>
         </tr>
       </TABLE>
