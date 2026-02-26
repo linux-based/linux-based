@@ -28,8 +28,11 @@
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
-            <td><p align="center">I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
-              <p align="center">I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> & suspect AuDHD.</p>
+            <td>
+              <div align="center">
+                <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
+                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> & suspect AuDHD.</div>
+              </div>
             </td>
           </tr>
         </TABLE>
@@ -39,14 +42,14 @@
         <tr>
           <td>
             <div align="center">
-              <div align="center">${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
-              <div align="center"><strong>Current - Writing/reading & making art</strong></div>
-              <div align="center">Other - Coding, math, science, martial arts</div>
-              <div align="center">🎵 Music - Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
-              <div align="center">${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
-              <div align="center"><strong>Star Trek</strong></div>
-              <div align="center">Stargate</div>
-              <div align="center">Transformers</div>
+              <div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
+              <div><strong>Current - Writing/reading & making art</strong></div>
+              <div>Other - Coding, math, science, martial arts</div>
+              <div>🎵 Music - Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
+              <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
+              <div><strong>Star Trek</strong></div>
+              <div>Stargate</div>
+              <div>Transformers</div>
               <div>OS-tan</div>
               <div>Robot Unicorn Attack</div>
               <div>Star Wars</div>
@@ -98,9 +101,12 @@
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
-            <td><p>Please don't involve me in drama or start drama with me. I do not like it.</p>
-              <p>Don't get close to me if you tend to suddenly jump from person to person or hyperfixate on people. I do not like being abandoned/ghosted.</p>
-              <p>Please don't criticize (even jokingly) anything that I make (such as fanfiction, art, game character designs, etc). Try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</p>
+            <td>
+              <div align="center">
+                <p>Please don't involve me in drama or start drama with me. I do not like it.</p>
+                <p>Don't get close to me if you tend to suddenly jump from person to person or hyperfixate on people. I do not like being abandoned/ghosted.</p>
+                <div>Please don't criticize (even jokingly) anything that I make (such as fanfiction, art, game character designs, etc). Try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
+              </div>
             </td>
           </tr>
         </TABLE>
@@ -110,9 +116,12 @@
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
-            <td><p>I only use Tumblr. If you'd like to talk to me, please become mutuals with me on Tumblr.</p>
-              <p>I also post all of my art on Tumblr =)</p>
-              <p>I tend to follow people back on GitHub.</p>
+            <td>
+              <div align="center">
+                <p>I only use Tumblr. If you'd like to talk to me, please become mutuals with me on Tumblr.</p>
+                <p>I also post all of my art on Tumblr =)</p>
+                <div>I tend to follow people back on GitHub.</div>
+              </div>
             </td>
           </tr>
         </TABLE>
