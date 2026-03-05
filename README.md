@@ -105,9 +105,9 @@
           <tr>
             <td>
               <div align="center">
-                <p>Don't involve me in drama or start drama with me. I do not like it.</p>
+                <p>Please don't involve me in drama or start drama with me. I do not like it.</p>
                 <p>Don't get close to me if you tend to suddenly jump from person to person or hyperfixate on people. I do not like being abandoned, ghosted, or obsessed over.</p>
-                <div>Don't criticize (even jokingly) anything that I make (such as fanfiction, art, game character designs, etc). Try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
+                <div>Please don't criticize (even jokingly) anything that I make (such as fanfiction, art, game character designs, etc). Try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
               </div>
             </td>
           </tr>
