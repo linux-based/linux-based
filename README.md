@@ -151,10 +151,10 @@
         <img alt="boldyGo" src="https://github.com/user-attachments/assets/a202856e-7324-4163-aab7-43b85c4b2cbb">
         <img alt="starTrekDS9Style" src="https://64.media.tumblr.com/e29499103969062a8a519dab569fd513/52670ea059f92c0f-14/s250x400/bc11067d7ca49f30740984a42506ca04509370dc.gifv" height="20">
         <br>
-        <img alt="pirateLife" src="https://github.com/user-attachments/assets/1c98b3e7-413b-4f67-b9ef-802a20df0521">
-        <img alt="kickassTorrent" src="https://github.com/user-attachments/assets/9e62a6f3-2a23-40f6-88e6-754c6cb9adbf">
-        <img alt="linuxIsBetter" src="https://github.com/user-attachments/assets/81425a8f-c0e0-4823-8279-9c3f987452c8" height="20">
-        <img alt="uTorrent" src="https://github.com/user-attachments/assets/5098819b-c957-4f86-b9c9-0f7e158fbf0d">
+        <img alt="pirateLife" src="https://github.com/user-attachments/assets/1c98b3e7-413b-4f67-b9ef-802a20df0521" width="150">
+        <img alt="kickassTorrent" src="https://github.com/user-attachments/assets/9e62a6f3-2a23-40f6-88e6-754c6cb9adbf" width="150">
+        <img alt="linuxIsBetter" src="https://github.com/user-attachments/assets/81425a8f-c0e0-4823-8279-9c3f987452c8" width="150">
+        <img alt="uTorrent" src="https://github.com/user-attachments/assets/5098819b-c957-4f86-b9c9-0f7e158fbf0d" width="150">
         <br>
         <img alt="SALS" src="https://github.com/user-attachments/assets/11d18bc2-9a7a-4008-b8d9-39ca8903cff5">
         <img alt="antiHarassment" src="https://github.com/user-attachments/assets/42ff22d2-7446-4974-8238-0891d37710a8">
