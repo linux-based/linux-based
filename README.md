@@ -4,10 +4,10 @@
 
 <img src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s2048x3072/a529e8e73bd9068e9bebb9694437fbeabe09bd98.gifv">-->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0">
+  <img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">
     <h1>Riker</h1>
-      <p>Current Other Alias(es): Archer, T'Pol</p>
-      <p>Please <em>do</em> call me by the name whatever character I am playing as in games.</p>
+      <p>Current Other Alias(es): Archer, Shran</p>
+      <p>Please <em>do</em> call me the name whatever character I am playing as in-game.</p>
       <p>
         <a href="https://salmacian.org/"><img title="Salmacian" src="https://github.com/user-attachments/assets/1d3fa01c-c28a-4d97-aaed-4ae68d6937a0"></a>
         <a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>
@@ -23,7 +23,7 @@
         <a href="https://paraflags-wiki.org/index.php/Flags_for_types_of_objectophilia"><img title="Objectophilia (Objectum)" src="https://github.com/user-attachments/assets/ab6419d9-c4ca-4924-95e4-9b5d1454116e"></a>
         <a href=""><img title="Technophilia (Techtum)" src="https://github.com/user-attachments/assets/041edf31-f091-4946-92a7-bdeca09e3098"></a>
       </p>
-<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+<!--<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483">--><img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
   <div><img width="94" height="29" alt="Important" src="https://github.com/user-attachments/assets/cabf4a1f-5757-46ee-a514-04285b2bf250"></div>
       <details><summary></summary>
         <TABLE BORDER>
@@ -31,21 +31,21 @@
             <td>
               <div align="center">
                 <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
-                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> & suspect AuDHD.</div>
+                <div><a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> | AuDHD | MixedPD</div>
               </div>
             </td>
           </tr>
         </TABLE>
       </details>
-<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
       <TABLE BORDER>
         <tr>
           <td>
             <div align="center">
               <div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
-              <div><strong>Current - Writing/reading & making art</strong></div>
-              <div>Other - Coding, math, science, martial arts</div>
-              <div>🎵 Music - Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
+              <div><strong>Current — Writing, reading, & art</strong></div>
+              <div>Other — Coding, math, science, martial arts</div>
+              <div>Music — Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div>Stargate</div>
@@ -58,7 +58,7 @@
         </tr>
       </TABLE>
     <!--</details>-->
-<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
   <p>${{\color{#fffff}\Huge{\textsf{Favorite Characters}}}}$<br>
     ${\textsf{\color{#E92E49}William Riker}}$<br>
     ${\textsf{\color{#9796EA}Wesley Crusher}}$<br>
@@ -76,9 +76,9 @@
     ${\textsf{\color{#feca5f}Jonathan Archer}}$<br>
     ${\textsf{\color{#efd2ef}Seven of Nine}}$<br>
   </p>
-<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
   <p>${{\color{#fffff}\Huge{\textsf{Favorite Ships}}}}$<br>
-      Current Hyperfix: ${\textsf{\color{#831d5a}Archepol}}$ & ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
+      Current Hyperfix: ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
       OTP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
       OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
       Old Faves: ${\textsf{\color{#D0D9FA}Megastar}}$ & ${\textsf{\color{#B2A7F9}Obikin}}$<br>
@@ -95,23 +95,25 @@
       ${\textsf{\color{#4112A8}Wavewave}}$<br>
       ${\textsf{\color{#F48732}Rodimags}}$<br>
       ${\textsf{\color{#9ED1FA}Opbee}}$<br>
+      ${\textsf{\color{#7e259d}Kiradax}}$<br>
+      ${\textsf{\color{#831d5a}Archepol}}$<br>
   </p>
-<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
     <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"></div>
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
             <td>
               <div align="center">
-                <p>Please don't involve me in drama or start drama with me. I do not like it.</p>
-                <p>Don't get close to me if you tend to suddenly jump from person to person or hyperfixate on people. I do not like being abandoned/ghosted.</p>
-                <div>Please don't criticize (even jokingly) anything that I make (such as fanfiction, art, game character designs, etc). Try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
+                <p>Don't involve me in drama or start drama with me. I do not like it.</p>
+                <p>Don't get close to me if you tend to suddenly jump from person to person or hyperfixate on people. I do not like being abandoned, ghosted, or obsessed over.</p>
+                <div>Don't criticize (even jokingly) anything that I make (such as fanfiction, art, game character designs, etc). Try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
               </div>
             </td>
           </tr>
         </TABLE>
       </details>
-<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
     <div><img width="103" height="29" alt="Social Media" src="https://github.com/user-attachments/assets/69c2a17e-fcd4-43a9-9b44-715906f004a3"></div>
       <details><summary></summary>
         <TABLE BORDER>
@@ -120,13 +122,13 @@
               <div align="center">
                 <p>I only use Tumblr. If you'd like to talk to me, please become mutuals with me on Tumblr.</p>
                 <p>I also post all of my art on Tumblr =)</p>
-                <div>I tend to follow people back on GitHub.</div>
+                <div>I tend to follow people back on GitHub. I also frequently make updates & edits to this page.</div>
               </div>
             </td>
           </tr>
         </TABLE>
       </details>
-<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><br><br>
+ <img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
     <div><img width="105" height="29" alt="Blinkie Hoard" src="https://github.com/user-attachments/assets/435e03a7-033e-4000-ab4b-d23740a0ccf5"></div>
       <details><summary></summary>
         <img alt="AUTOBOT" src="https://github.com/user-attachments/assets/84760ab3-fb62-4ffb-8b86-8fe2f9dfafdd">
@@ -159,6 +161,6 @@
         <img alt="chronicProshipper" src="https://github.com/user-attachments/assets/0666ba63-4793-488e-bfcb-7428497fa5cb" height="20">
         <img alt="dontLikeItClickX" src="https://github.com/user-attachments/assets/6a9ff022-9c6a-4e52-8e16-0016b83b26bc">
       </details>
-  <img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><br><br>
+  <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0">--><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif"><br><br>
 <code>Feel free to use any code on this page or ask. It's open source and that's something I believe in.</code>
 </div>
