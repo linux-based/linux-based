@@ -45,7 +45,7 @@
               <div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
               <div><strong>Current — Writing, reading, & art</strong></div>
               <div>Other — Coding, math, science, martial arts</div>
-              <div>Music — Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, techcore/hardcore/etc</div><br>
+              <div>Music — Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, jungle/breakcore</div><br>
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div>Stargate</div>
