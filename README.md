@@ -31,7 +31,7 @@
             <td>
               <div align="center">
                 <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
-                <div><a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> | AuDHD | MixedPD</div>
+                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> (avodiant personality disorder; not to be mistaken for avoidant attachment) — I can be shy and slow to warm up, but kindness and patience is appreciated.</div>
               </div>
             </td>
           </tr>
@@ -105,9 +105,9 @@
           <tr>
             <td>
               <div align="center">
-                <p>Please don't involve me in drama or start drama with me. I do not like it.</p>
-                <p>Don't get close to me if you tend to suddenly jump from person to person or hyperfixate on people. I do not like being abandoned, ghosted, or obsessed over.</p>
-                <div>Please don't criticize (even jokingly) anything that I make (such as fanfiction, art, game character designs, etc). Try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
+                <p>I don't do well with drama, as it makes me extremely anxious and worried. Please do not involve me in it/start it with me.</p>
+                <p>If a friendship becomes intense at the very start, or if I am labeled as someone's "favorite person", I may take a step back.</p>
+                <div>I tend to take criticism (even jokes) about my art/writing/game designs personally due to my PD— so please do not do that. If you are unsure about what is criticism/what isn't— I will let you know if you have done something that upsets me. If that is not an ample/logical explanation, try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
               </div>
             </td>
           </tr>
@@ -120,9 +120,9 @@
           <tr>
             <td>
               <div align="center">
-                <p>I only use Tumblr. If you'd like to talk to me, please become mutuals with me on Tumblr.</p>
-                <p>I also post all of my art on Tumblr =)</p>
-                <div>I tend to follow people back on GitHub. I also frequently make updates & edits to this page.</div>
+                <p>I tend to only use Tumblr. If you'd liked to contact to me, please become mutuals with me on Tumblr.</p>
+                <p>I also post some of my art on Tumblr =)</p>
+                <div>I follow people back on GitHub. I also frequently make updates & edits to this page.</div>
               </div>
             </td>
           </tr>
