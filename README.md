@@ -7,7 +7,7 @@
   <img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">
     <h1>Riker</h1>
       <p>Current Other Alias(es): Archer, Shran</p>
-      <p>Please <em>do</em> call me the name whatever character I am playing as in-game.</p>
+      <p>I like to be called the name of the character I am playing as!</p>
       <p>
         <a href="https://salmacian.org/"><img title="Salmacian" src="https://github.com/user-attachments/assets/1d3fa01c-c28a-4d97-aaed-4ae68d6937a0"></a>
         <a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>
