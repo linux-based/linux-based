@@ -120,7 +120,7 @@
           <tr>
             <td>
               <div align="center">
-                <p>I tend to only use Tumblr. If you'd liked to contact to me, please become mutuals with me on Tumblr.</p>
+                <p>I tend to only use Tumblr. If you'd like to contact to me, please become mutuals with me on Tumblr.</p>
                 <p>I also post some of my art on Tumblr =)</p>
                 <div>I follow people back on GitHub. I also frequently make updates & edits to this page.</div>
               </div>
