@@ -31,7 +31,7 @@
             <td>
               <div align="center">
                 <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I <strong>will</strong> respect all boundaries.</p>
-                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> (avoidant personality disorder: not to be mistaken for avoidant attachment style). This PD makes me shy, slow to warm up, and anxiety-ridden. Kindness and patience is really appreciated.</div>
+                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> (avoidant personality disorder: not to be mistaken for avoidant attachment style). This PD makes me shy/tentative, slow to warm up, anxiety-ridden, and bit paranoid. Kindness and patience is really appreciated.</div>
               </div>
             </td>
           </tr>
