@@ -75,6 +75,7 @@
     ${\textsf{\color{#9EA4B1}TARS}}$<br>
     ${\textsf{\color{#feca5f}Jonathan Archer}}$<br>
     ${\textsf{\color{#efd2ef}Seven of Nine}}$<br>
+    ${\textsf{\color{#f8cc46}Teal'c}}$<br>
   </p>
 <img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
   <p>${{\color{#fffff}\Huge{\textsf{Favorite Ships}}}}$<br>
