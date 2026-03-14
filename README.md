@@ -30,8 +30,8 @@
           <tr>
             <td>
               <div align="center">
-                <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I will respect your boundaries.</p>
-                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> (avoidant personality disorder; not to be mistaken for avoidant attachment) — I can be shy and slow to warm up, but kindness and patience is appreciated.</div>
+                <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I <strong>will</strong> respect all boundaries.</p>
+                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> (avoidant personality disorder: not to be mistaken for avoidant attachment style). This PD makes me shy, slow to warm up, and anxiety-ridden. Kindness and patience is really appreciated.</div>
               </div>
             </td>
           </tr>
@@ -78,7 +78,7 @@
   </p>
 <img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
   <p>${{\color{#fffff}\Huge{\textsf{Favorite Ships}}}}$<br>
-      Current Hyperfix: ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
+      Current Hyperfixation: None, surprisingly?<br>
       OTP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
       OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
       Old Faves: ${\textsf{\color{#D0D9FA}Megastar}}$ & ${\textsf{\color{#B2A7F9}Obikin}}$<br>
@@ -97,6 +97,7 @@
       ${\textsf{\color{#9ED1FA}Opbee}}$<br>
       ${\textsf{\color{#7e259d}Kiradax}}$<br>
       ${\textsf{\color{#831d5a}Archepol}}$<br>
+      ${\textsf{\color{#8cc9ff}Shrancher}}$
   </p>
 <img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
     <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"></div>
@@ -120,7 +121,7 @@
           <tr>
             <td>
               <div align="center">
-                <p>I tend to only use Tumblr due to widespread age verification rollouts. If you'd like to contact to me, please become mutuals with me on Tumblr ^^</p>
+                <p>I tend to only use Tumblr due to widespread age verification rollouts. If you'd like to contact to me, please become mutuals with me on Tumblr</p>
                 <p>I also post some of my art on Tumblr =)</p>
                 <div>I follow people back on GitHub. I also frequently make updates & edits to this page.</div>
               </div>
@@ -162,5 +163,5 @@
         <img alt="dontLikeItClickX" src="https://github.com/user-attachments/assets/6a9ff022-9c6a-4e52-8e16-0016b83b26bc">
       </details>
   <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0">--><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif"><br><br>
-<code>Feel free to use any code on this page or ask. It's open source and that's something I believe in.</code>
+<code>Feel free to use any code on this page and/or ask for help with anything. It's open source and that's something I believe in.</code>
 </div>
