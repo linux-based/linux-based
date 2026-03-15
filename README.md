@@ -107,7 +107,7 @@
           <tr>
             <td>
               <div align="center">
-                <p>I don't do well with drama, as it makes me extremely anxious and worried. Please do not involve me in it/start it with me.</p>
+                <p>I don't do well with drama, as it makes me extremely anxious and worried & also I just flat out <em>don't like it.</em> Please do not involve me in it/start it with me.</p>
                 <p>If a friendship becomes intense at the very start, or if I am labeled as someone's "favorite person", I may take a step back.</p>
                 <div>I tend to take criticism (even jokes) about my art/writing/game designs personally due to my PD— so please do not do that. If you are unsure about what is criticism/what isn't— I will let you know if you have done something that upsets me. If that is not an ample/logical explanation, try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
               </div>
