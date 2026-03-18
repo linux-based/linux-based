@@ -59,7 +59,7 @@
       </TABLE>
     <!--</details>-->
 <img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
-  <p>${{\color{#fffff}\Huge{\textsf{Favorite Characters}}}}$<br>
+  <p>${{\color{#ffffff}\Huge{\textsf{Favorite Characters}}}}$<br>
     ${\textsf{\color{#E92E49}William Riker}}$<br>
     ${\textsf{\color{#9796EA}Wesley Crusher}}$<br>
     ${\textsf{\color{#CCB4C5}Gul Dukat}}$<br>
@@ -79,7 +79,7 @@
     ${\textsf{\color{#721e27}Jack O'Neill}}$<br>
   </p>
 <img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
-  <p>${{\color{#fffff}\Huge{\textsf{Favorite Ships}}}}$<br>
+  <p>${{\color{#ffffff}\Huge{\textsf{Favorite Ships}}}}$<br>
       Current Favorites: ${\textsf{\color{#ffcd5e}SG1cule}}$ + ${\textsf{\color{#85fffc}Jack/Daniel}}$ <s>whiskeyshipping hah</s><br>
       OTP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
       OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
