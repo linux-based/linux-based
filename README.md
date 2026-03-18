@@ -2,9 +2,13 @@
 <p> test</p>
 <img src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s2048x3072/a529e8e73bd9068e9bebb9694437fbeabe09bd98.gifv">
 
-<img src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s2048x3072/a529e8e73bd9068e9bebb9694437fbeabe09bd98.gifv">-->
+<img src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s2048x3072/a529e8e73bd9068e9bebb9694437fbeabe09bd98.gifv">
+<img src="https://64.media.tumblr.com/15d9760be1cab464321eac57e1bc9724/5b5768b53aad21c8-ba/s1280x1920/58b31dcab6cc512012455cc015e5f7b1388e2009.pnj">
+<img src="">
+<img src="">
+<img src="">-->
 <div align="center">
-  <img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">
+  <!--<img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/d00eb424b11c885e70681b2a0e8085d9/5b5768b53aad21c8-67/s1280x1920/515f6459f7ec3d9c72cb28ab4b8a1ea00828b7a3.gifv">
     <h1>Riker</h1>
       <p>Current Other Alias(es): Archer, Shran</p>
       <p>I like to be called the name of the character I am playing as</p>
@@ -23,7 +27,7 @@
         <a href="https://paraflags-wiki.org/index.php/Flags_for_types_of_objectophilia"><img title="Objectophilia (Objectum)" src="https://github.com/user-attachments/assets/ab6419d9-c4ca-4924-95e4-9b5d1454116e"></a>
         <a href=""><img title="Technophilia (Techtum)" src="https://github.com/user-attachments/assets/041edf31-f091-4946-92a7-bdeca09e3098"></a>
       </p>
-<!--<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483">--><img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
+<!--<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
   <div><img width="94" height="29" alt="Important" src="https://github.com/user-attachments/assets/cabf4a1f-5757-46ee-a514-04285b2bf250"></div>
       <details><summary></summary>
         <TABLE BORDER>
@@ -37,7 +41,7 @@
           </tr>
         </TABLE>
       </details>
-<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
+<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
       <TABLE BORDER>
         <tr>
           <td>
@@ -58,7 +62,7 @@
         </tr>
       </TABLE>
     <!--</details>-->
-<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
+<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
   <p>${{\color{#ffffff}\Huge{\textsf{Favorite Characters}}}}$<br>
     ${\textsf{\color{#E92E49}William Riker}}$<br>
     ${\textsf{\color{#9796EA}Wesley Crusher}}$<br>
@@ -78,7 +82,7 @@
     ${\textsf{\color{#f8cc46}Teal'c}}$<br>    
     ${\textsf{\color{#721e27}Jack O'Neill}}$<br>
   </p>
-<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
+<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
   <p>${{\color{#ffffff}\Huge{\textsf{Favorite Ships}}}}$<br>
       Current Favorites: ${\textsf{\color{#ffcd5e}SG1cule}}$ + ${\textsf{\color{#85fffc}Jack/Daniel}}$ <s>whiskeyshipping hah</s><br>
       OTP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
@@ -101,7 +105,7 @@
       ${\textsf{\color{#831d5a}Archepol}}$<br>
       ${\textsf{\color{#8cc9ff}Shrancher}}$
   </p>
-<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
+<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"></div>
       <details><summary></summary>
         <TABLE BORDER>
@@ -117,7 +121,7 @@
           </tr>
         </TABLE>
       </details>
-<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
+<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img width="103" height="29" alt="Social Media" src="https://github.com/user-attachments/assets/69c2a17e-fcd4-43a9-9b44-715906f004a3"></div>
       <details><summary></summary>
         <TABLE BORDER>
@@ -131,7 +135,7 @@
           </tr>
         </TABLE>
       </details>
- <img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
+ <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img width="105" height="29" alt="Blinkie Hoard" src="https://github.com/user-attachments/assets/435e03a7-033e-4000-ab4b-d23740a0ccf5"></div>
       <details><summary></summary>
         <img alt="AUTOBOT" src="https://github.com/user-attachments/assets/84760ab3-fb62-4ffb-8b86-8fe2f9dfafdd">
@@ -164,6 +168,6 @@
         <img alt="chronicProshipper" src="https://github.com/user-attachments/assets/0666ba63-4793-488e-bfcb-7428497fa5cb" height="20">
         <img alt="dontLikeItClickX" src="https://github.com/user-attachments/assets/6a9ff022-9c6a-4e52-8e16-0016b83b26bc">
       </details>
-  <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0">--><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif"><br><br>
-<code>Feel free to use any code on this page and/or ask for help with anything. It's open source and that's something I believe in.</code>
+  <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/30e2541c44bf9274fca795fe33f8e135/62d023f1aad38884-13/s2048x3072/af34034e9ebd48b68c3f0625e7545ff55dadfd77.pnj"><br><br>
+<code>You can use can code on that is on this page. If you want help, feel free to ask.</code>
 </div>
