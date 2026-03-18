@@ -7,7 +7,7 @@
   <img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">
     <h1>Riker</h1>
       <p>Current Other Alias(es): Archer, Shran</p>
-      <p>I like to be called the name of the character I am playing as :)</p>
+      <p>I like to be called the name of the character I am playing as</p>
       <p>
         <a href="https://salmacian.org/"><img title="Salmacian" src="https://github.com/user-attachments/assets/1d3fa01c-c28a-4d97-aaed-4ae68d6937a0"></a>
         <a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>
@@ -30,8 +30,8 @@
           <tr>
             <td>
               <div align="center">
-                <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Please let me know if any topics make you uncomfortable. I <strong>will</strong> respect all boundaries.</p>
-                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> (avoidant personality disorder: not to be mistaken for avoidant attachment style). This PD makes me shy/tentative, slow to warm up, anxiety-ridden, and bit paranoid. Kindness and patience is really appreciated.</div>
+                <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Let me know if any topics make you uncomfortable.</p>
+                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a>, so be aware that I will display some symptom criteria.</div>
               </div>
             </td>
           </tr>
@@ -48,7 +48,7 @@
               <div>Music — Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, jungle/breakcore</div><br>
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
-              <div>Stargate</div>
+              <div><strong>Stargate</strong></div>
               <div>Transformers</div>
               <div>OS-tan</div>
               <div>Robot Unicorn Attack</div>
@@ -75,11 +75,12 @@
     ${\textsf{\color{#9EA4B1}TARS}}$<br>
     ${\textsf{\color{#feca5f}Jonathan Archer}}$<br>
     ${\textsf{\color{#efd2ef}Seven of Nine}}$<br>
-    ${\textsf{\color{#f8cc46}Teal'c}}$<br>
+    ${\textsf{\color{#f8cc46}Teal'c}}$<br>    
+    ${\textsf{\color{#721e27}Jack O'Neill}}$<br>
   </p>
 <img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><br><br>
   <p>${{\color{#fffff}\Huge{\textsf{Favorite Ships}}}}$<br>
-      Current Hyperfixation: None, surprisingly?<br>
+      Current Favorites: ${\textsf{\color{#ffcd5e}SG1cule}}$ + ${\textsf{\color{#85fffc}Jack/Daniel}}$ <s>whiskeyshipping hah</s><br>
       OTP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
       OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
       Old Faves: ${\textsf{\color{#D0D9FA}Megastar}}$ & ${\textsf{\color{#B2A7F9}Obikin}}$<br>
@@ -107,9 +108,10 @@
           <tr>
             <td>
               <div align="center">
-                <p>I don't do well with drama, as it makes me extremely anxious and worried & also I just flat out <em>don't like it.</em> Please do not involve me in it/start it with me.</p>
+                <p>I don't do well with drama, as it makes me extremely anxious and worried + I just flat out just <em>don't like it.</em> Don't expect me to engage in discourse or respond if you try to start something with me. In all likelyhood, I will give you a simple "mind your own business" & block you.</p>
                 <p>If a friendship becomes intense at the very start, or if I am labeled as someone's "favorite person", I may take a step back.</p>
-                <div>I tend to take criticism (even jokes) about my art/writing/game designs personally due to my PD— so please do not do that. If you are unsure about what is criticism/what isn't— I will let you know if you have done something that upsets me. If that is not an ample/logical explanation, try to remember that I made everything on my own time and shared it for free. If you don't like something, move on.</div>
+                <p>Don't criticize my art or anything I create, even as a joke. I never ask for criticism & it doesn't bode well with me. Don't expect a nice response if you make fun of something I made or like.</p>
+                <p>Fellow PonyTowners: <strong>I am not playing the game for you & I am not going to cater to you. Don't be a dick.</strong></p>
               </div>
             </td>
           </tr>
@@ -122,9 +124,8 @@
           <tr>
             <td>
               <div align="center">
-                <p>I tend to only use Tumblr due to widespread age verification rollouts. If you'd like to contact to me, please become mutuals with me on Tumblr</p>
-                <p>I also post some of my art on Tumblr =)</p>
-                <div>I follow people back on GitHub. I also frequently make updates & edits to this page.</div>
+                <p>I tend to only use Tumblr due to widespread age verification rollouts. If you'd like to contact to me, please become mutuals with me on Tumblr. I also post some of my art there, but that's about it. I'm not a big social media user.</p>
+                <div>I follow people back on this GitHub & I frequently make updates to this page.</div>
               </div>
             </td>
           </tr>
