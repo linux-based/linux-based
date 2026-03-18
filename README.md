@@ -115,7 +115,7 @@
                 <p>I don't do well with drama, as it makes me extremely anxious and worried + I just flat out just <em>don't like it.</em> Don't expect me to engage in discourse or respond if you try to start something with me. In all likelyhood, I will give you a simple "mind your own business" & block you.</p>
                 <p>If a friendship becomes intense at the very start, or if I am labeled as someone's "favorite person", I may take a step back.</p>
                 <p>Don't criticize my art or anything I create, even as a joke. I never ask for criticism & it doesn't bode well with me. Don't expect a nice response if you make fun of something I made or like.</p>
-                <p>Fellow PonyTowners: <strong>I am not playing the game for you & I am not going to cater to you. Don't be a dick.</strong></p>
+                <div>Fellow PonyTowners: <strong>I am not playing the game for you & I am not going to cater to you. Don't be a dick.</strong></div>
               </div>
             </td>
           </tr>
