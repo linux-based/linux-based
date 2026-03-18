@@ -167,6 +167,9 @@
         <img alt="antiHarassment" src="https://github.com/user-attachments/assets/42ff22d2-7446-4974-8238-0891d37710a8">
         <img alt="chronicProshipper" src="https://github.com/user-attachments/assets/0666ba63-4793-488e-bfcb-7428497fa5cb" height="20">
         <img alt="dontLikeItClickX" src="https://github.com/user-attachments/assets/6a9ff022-9c6a-4e52-8e16-0016b83b26bc">
+        <br>
+        <img alt="stargater" src="https://github.com/user-attachments/assets/cbf350c1-2994-49fe-b3c8-6700a1c4bfb1">
+        <img alt="openTheStargateBloodIncantation" src="https://github.com/user-attachments/assets/ba5fbd1e-78cc-4994-8e8c-26606dc8b02a">
       </details>
   <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/30e2541c44bf9274fca795fe33f8e135/62d023f1aad38884-13/s2048x3072/af34034e9ebd48b68c3f0625e7545ff55dadfd77.pnj"><br><br>
 <code>You can use can code on that is on this page. If you want help, feel free to ask.</code>
