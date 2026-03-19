@@ -1,7 +1,6 @@
 <!--<img alt="greenStar" src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s2048x3072/a529e8e73bd9068e9bebb9694437fbeabe09bd98.gifv">
 <p> test</p>
 <img src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s2048x3072/a529e8e73bd9068e9bebb9694437fbeabe09bd98.gifv">
-
 <img src="https://64.media.tumblr.com/cdc900a885844245b57dc34fc137bd83/bffd9988782c76d9-36/s2048x3072/a529e8e73bd9068e9bebb9694437fbeabe09bd98.gifv">
 <img src="https://64.media.tumblr.com/15d9760be1cab464321eac57e1bc9724/5b5768b53aad21c8-ba/s1280x1920/58b31dcab6cc512012455cc015e5f7b1388e2009.pnj">
 <img src="">
@@ -27,7 +26,7 @@
         <a href="https://paraflags-wiki.org/index.php/Flags_for_types_of_objectophilia"><img title="Objectophilia (Objectum)" src="https://github.com/user-attachments/assets/ab6419d9-c4ca-4924-95e4-9b5d1454116e"></a>
         <a href=""><img title="Technophilia (Techtum)" src="https://github.com/user-attachments/assets/041edf31-f091-4946-92a7-bdeca09e3098"></a>-->
       </p>
-<!--<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
+<!--<img alt="greenDiv" src="https://github.com/user-attachments/assets/deb7393e-29d3-47f4-b5c2-2d1a35b5d483"><img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj">--><img alt="enterpriseFlyBy4" src="https://github.com/user-attachments/assets/410cdc81-9d2c-468f-9775-4878979cb635"><br><br>
   <div><img width="94" height="29" alt="Important" src="https://github.com/user-attachments/assets/cabf4a1f-5757-46ee-a514-04285b2bf250"></div>
       <details><summary></summary>
         <TABLE BORDER>
@@ -41,7 +40,8 @@
           </tr>
         </TABLE>
       </details>
-<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
+<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj">
+<br><br>
       <TABLE BORDER>
         <tr>
           <td>
