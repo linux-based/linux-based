@@ -8,9 +8,9 @@
 <img src="">-->
 <div align="center">
   <!--<img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/d00eb424b11c885e70681b2a0e8085d9/5b5768b53aad21c8-67/s1280x1920/515f6459f7ec3d9c72cb28ab4b8a1ea00828b7a3.gifv">
-    <h1>Riker</h1>
-      <p>Current Other Alias(es): Archer, Shran</p>
-      <p>Playing a game with me? I like to be called the name of the character I am playing as.</p>
+    <h1>Commander Riker</h1>
+      <p>Current Other Alias(es): Jack, Archer, Shran</p>
+      <p>Heyo if we're playing a game together please call me the name of the character I'm playing as</p>
       <p>
         <a href="https://salmacian.org/"><img title="Salmacian" src="https://github.com/user-attachments/assets/1d3fa01c-c28a-4d97-aaed-4ae68d6937a0"></a>
         <!--<a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>-->
@@ -33,8 +33,8 @@
           <tr>
             <td>
               <div align="center">
-                <p>I am against censorship of fictional works, AKA, proship. I am also darkship + comship. Let me know if any topics make you uncomfortable.</p>
-                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a>, so be aware that I will display some symptom criteria.</div>
+                <p>I am anti-censorship/"pro-ship".</p>
+                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a>, so please exercise kindness and patience <3.</div>
               </div>
             </td>
           </tr>
@@ -49,7 +49,7 @@
               <div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
               <div><strong>Current — Writing, reading, & art</strong></div>
               <div>Other — Coding, math, science, martial arts</div>
-              <div>Music — Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, jungle/breakcore</div><br>
+              <div>Music — Mostly anything. Some I can name: Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, jungle/breakcore</div><br>
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div><strong>Stargate</strong></div>
@@ -57,6 +57,7 @@
               <div>OS-tan</div>
               <div>Robot Unicorn Attack</div>
               <div>Star Wars</div>
+              <div><strong><em>There's more on my StrawPage :-)</em></strong>
             </div>
           </td>
         </tr>
@@ -80,7 +81,7 @@
     ${\textsf{\color{#feca5f}Jonathan Archer}}$<br>
     ${\textsf{\color{#efd2ef}Seven of Nine}}$<br>
     ${\textsf{\color{#f8cc46}Teal'c}}$<br>    
-    ${\textsf{\color{#721e27}Jack O'Neill}}$<br>
+    ${\textsf{\color{#91212c}Jack O'Neill}}$<br>
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
   <p>${{\color{#ffffff}\Huge{\textsf{Favorite Ships}}}}$<br>
@@ -112,10 +113,10 @@
           <tr>
             <td>
               <div align="center">
-                <p>I don't do well with drama, as it makes me extremely anxious and worried + I just flat out just <em>don't like it.</em> Don't expect me to engage in discourse or respond if you try to start something with me. In all likelyhood, I will give you a simple "mind your own business" & block you.</p>
-                <p>If a friendship becomes intense at the very start, or if I am labeled as someone's "favorite person", I may take a step back.</p>
-                <p>Don't criticize my art or anything I create, even as a joke. I never ask for criticism & it doesn't bode well with me. Don't expect a nice response if you make fun of something I made or like.</p>
-                <div>Fellow PonyTowners: <strong>I am not playing the game for you & I am not going to cater to you. Don't be a dick.</strong></div>
+                <p>NOOO drama for me, please keep me out of it.</p>
+                <p>I really don't mean to sound rude here, but if you have a PD or a mental disorder where you need emotional support from someone, I am really not the person for that since I have one myself :')</p>
+                <p>I'm really sensitive to criticism about things I make or like, so don't give it. Respectfully, you know, I didn't ask.</p>
+                <div>Fellow PonyTowners: <strong>Hello PonyTowners. Please don't interact with me if you're not going to be kind. I am not playing the game for you, so shooo with your drama and trolling. Nice players please INT tho!</strong></div>
               </div>
             </td>
           </tr>
@@ -128,7 +129,7 @@
           <tr>
             <td>
               <div align="center">
-                <p>I tend to only use Tumblr due to widespread age verification rollouts. If you'd like to contact to me, please become mutuals with me on Tumblr. I also post some of my art there, but that's about it. I'm not a big social media user.</p>
+                <p>Very Tumblr-centric person since it's my favorite. You can ask for other socials, but I don't use social media- in general- that much.</p>
                 <div>I follow people back on this GitHub & I frequently make updates to this page.</div>
               </div>
             </td>
@@ -172,5 +173,5 @@
         <img alt="openTheStargateBloodIncantation" src="https://github.com/user-attachments/assets/ba5fbd1e-78cc-4994-8e8c-26606dc8b02a">
       </details>
   <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/30e2541c44bf9274fca795fe33f8e135/62d023f1aad38884-13/s2048x3072/af34034e9ebd48b68c3f0625e7545ff55dadfd77.pnj"><br><br>
-<code>You can use can code on that is on this page. If you want help, feel free to ask.</code>
+<code>You can use can code on this page! If you want help with HTML or something, feel free to ask. I also know CSS.. but I might need a quick refresher before I can help.</code>
 </div>
