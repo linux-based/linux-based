@@ -12,7 +12,7 @@
       <p>Current Other Alias(es): Jack, Archer, Shran</p>
       <p>Heyo if we're playing a game together please call me the name of the character I'm playing as</p>
       <p>
-        <a href="https://salmacian.org/"><img title="Salmacian" src="https://github.com/user-attachments/assets/1d3fa01c-c28a-4d97-aaed-4ae68d6937a0"></a>
+        <img title="Trans" alt="Trans" src="https://github.com/user-attachments/assets/9531435c-42f7-4cb2-a776-6bb2ea320a74">
         <!--<a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>-->
         <a href="https://nonbinary.wiki/wiki/Multigender"><img title="Multigender" src="https://github.com/user-attachments/assets/58234007-2e1c-4155-8d72-76b45b0fbd5a"></a><br>
         <a href="https://antifandom.com/lgbtqia/wiki/Demiromantic"><img title="Demiromantic" src="https://github.com/user-attachments/assets/56f0d61b-c4f8-4130-bc2d-eb636362764d"></a>
@@ -33,8 +33,8 @@
           <tr>
             <td>
               <div align="center">
-                <p>I am anti-censorship/"pro-ship".</p>
-                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a>, so please exercise kindness and patience <3.</div>
+                <p>I am anti-censorship/"pro-ship" (cough common sense). Yes, I do do darkships. If that makes you uncomfy then I won't talk about them around you. Plain and simple.</p>
+                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> and maybe-OCD. Not sure why this is important, but it might be important to some people and explain some behaviors, so hear hear. Also do know that while, yes, I have issues, I don't make them my entire personality.</div>
               </div>
             </td>
           </tr>
@@ -49,7 +49,7 @@
               <div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
               <div><strong>Current — Writing, reading, & art</strong></div>
               <div>Other — Coding, math, science, martial arts</div>
-              <div>Music — Mostly anything. Some I can name: Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, jungle/breakcore</div><br>
+              <div>Music — Mostly anything. Some I can name: Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, jungle/breakcore. Ok. Music geek alert.</div><br>
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div><strong>Stargate</strong></div>
@@ -57,7 +57,11 @@
               <div>OS-tan</div>
               <div>Robot Unicorn Attack</div>
               <div>Star Wars</div>
-              <div><strong><em>There's more on my StrawPage :-)</em></strong>
+              <div>Babylon 5</div>
+              <div>Egyptain Mythology</div>
+              <div>Norse Mythology maybe</div>
+              <div>Any sci-fi crap. And I mean nice and happy (mostly) sci-fi, not ehhh cringes dystopian.</div>
+              <div><strong><em>There's more on my StrawPage =)</em></strong>
             </div>
           </td>
         </tr>
@@ -81,14 +85,18 @@
     ${\textsf{\color{#feca5f}Jonathan Archer}}$<br>
     ${\textsf{\color{#efd2ef}Seven of Nine}}$<br>
     ${\textsf{\color{#f8cc46}Teal'c}}$<br>    
-    ${\textsf{\color{#91212c}Jack O'Neill}}$<br>
+    ${\textsf{\color{#ce1313}Jack O'Neill}}$<br>
+    ${\textsf{\color{#6ac4d1}DanielJackson}}$<br>
+    ${\textsf{\color{#368947}Sam Carter}}$<br>
+    ${\textsf{\color{#bc8f2b}Apophis}}$ or something. This includes like. Egyptain Mythology Apophis more than Stargate Apophis.<br>
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
   <p>${{\color{#ffffff}\Huge{\textsf{Favorite Ships}}}}$<br>
-      Current Favorites: ${\textsf{\color{#ffcd5e}SG1cule}}$ + ${\textsf{\color{#85fffc}Jack/Daniel}}$ <s>whiskeyshipping hah</s><br>
-      OTP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
+      Current Favorite: ${\textsf{\color{#ffcd5e}SG1cule}}$<br>
+      OTP: ${\textsf{\color{#85fffc}Jack/Daniel}}$ <s>whiskeyshipping hah</s><br>
       OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
-      Old Faves: ${\textsf{\color{#D0D9FA}Megastar}}$ & ${\textsf{\color{#B2A7F9}Obikin}}$<br>
+      Rare-TP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
+      Old-TPs: ${\textsf{\color{#D0D9FA}Megastar}}$ & ${\textsf{\color{#B2A7F9}Obikin}}$<br>
       ${\textsf{\color{#F9B448}Kirk/Spock}}$<br>
       ${\textsf{\color{#822020}Dukat/Sisko}}$ (Disko hehe) <img width="10" height="10" alt="discoBall" src="https://github.com/user-attachments/assets/1031b16b-fe7c-454a-9cbf-6a9c0e7972df"><br>
       ${\textsf{\color{#208258}Garashir}}$<br>
@@ -104,7 +112,8 @@
       ${\textsf{\color{#9ED1FA}Opbee}}$<br>
       ${\textsf{\color{#7e259d}Kiradax}}$<br>
       ${\textsf{\color{#831d5a}Archepol}}$<br>
-      ${\textsf{\color{#8cc9ff}Shrancher}}$
+      ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
+      ${\textsf{\color{#aa0a29}ThorJack}}$
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"></div>
@@ -129,8 +138,8 @@
           <tr>
             <td>
               <div align="center">
-                <p>Very Tumblr-centric person since it's my favorite. You can ask for other socials, but I don't use social media- in general- that much.</p>
-                <div>I follow people back on this GitHub & I frequently make updates to this page.</div>
+                <p>Very Tumblr-centric person since it's my favorite. You can ask for other socials, but I don't use social media— in general— that much.</p>
+                <div>I follow people back on this GitHub & I frequently sometimes make updates to this page.</div>
               </div>
             </td>
           </tr>
