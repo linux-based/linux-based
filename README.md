@@ -123,9 +123,9 @@
             <td>
               <div align="center">
                 <p>NOOO drama for me, please keep me out of it.</p>
-                <p>I really don't mean to sound rude here, but if you have a PD or a mental disorder where you need emotional support from someone, I am really not the person for that since I have one myself :')</p>
-                <p>I'm really sensitive to criticism about things I make or like, so don't give it. Respectfully, you know, I didn't ask.</p>
-                <div>Fellow PonyTowners: <strong>Hello PonyTowners. Please don't interact with me if you're not going to be kind. I am not playing the game for you, so shooo with your drama and trolling. Nice players please INT tho!</strong></div>
+                <p>I really don't mean to sound rude here, but if you have a PD or a mental disorder where you need emotional support from someone, I am really not the person for that since I have one myself :') (however— AVPDgang unite ✊️)</p>
+                <p>Don't give unwarrented critique. On anything. I make. Respectfully, you know, I didn't ask.</p>
+                <div>PonyTown people feel free to C+H always. No drama/trolling of any kind. I will block you.</div>
               </div>
             </td>
           </tr>
@@ -182,5 +182,5 @@
         <img alt="openTheStargateBloodIncantation" src="https://github.com/user-attachments/assets/ba5fbd1e-78cc-4994-8e8c-26606dc8b02a">
       </details>
   <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/30e2541c44bf9274fca795fe33f8e135/62d023f1aad38884-13/s2048x3072/af34034e9ebd48b68c3f0625e7545ff55dadfd77.pnj"><br><br>
-<code>You can use can code on this page! If you want help with HTML or something, feel free to ask. I also know CSS.. but I might need a quick refresher before I can help.</code>
+<code>Feel free to ask for help with HTML stuffs! I know. Most of it. Also you can like. Copy any code from this page. I don't care =)</code>
 </div>
