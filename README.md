@@ -9,13 +9,14 @@
 <div align="center">
   <!--<img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/d00eb424b11c885e70681b2a0e8085d9/5b5768b53aad21c8-67/s1280x1920/515f6459f7ec3d9c72cb28ab4b8a1ea00828b7a3.gifv">
     <h1>Commander Riker</h1>
-      <p>Current Other Alias(es): Jack, Archer, Shran</p>
+      <p>Current Other Alias(es): Jack, Daniel</p>
       <p>Heyo if we're playing a game together please call me the name of the character I'm playing as</p>
       <p>
         <img title="Trans" alt="Trans" src="https://github.com/user-attachments/assets/9531435c-42f7-4cb2-a776-6bb2ea320a74">
         <!--<a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>-->
-        <a href="https://nonbinary.wiki/wiki/Multigender"><img title="Multigender" src="https://github.com/user-attachments/assets/58234007-2e1c-4155-8d72-76b45b0fbd5a"></a><br>
+        <!--<a href="https://nonbinary.wiki/wiki/Multigender"><img title="Multigender" src="https://github.com/user-attachments/assets/58234007-2e1c-4155-8d72-76b45b0fbd5a"></a><br>-->
         <a href="https://antifandom.com/lgbtqia/wiki/Demiromantic"><img title="Demiromantic" src="https://github.com/user-attachments/assets/56f0d61b-c4f8-4130-bc2d-eb636362764d"></a>
+        <a href="https://lgbtqia.wiki/wiki/Demisexual"><img title="Demisexual" src="">
         <a href="https://antifandom.com/lgbtqia/wiki/Polyamorous"><img title="Polyamory" src="https://github.com/user-attachments/assets/1d9372b0-416b-4b6a-8058-818b06d94a7c"></a>
         <a href="https://antifandom.com/lgbtqia/wiki/Pansexual"><img title="Pansexual" src="https://github.com/user-attachments/assets/abaecee3-cbaf-485d-aa30-a103e2789010"></a>
         <a href="https://paraflags-wiki.org/index.php/General_paraphilia_flags"><img title="Paraphile" src="https://github.com/user-attachments/assets/f17b2688-4847-4bff-be32-3a4520bf83e4"></a>
