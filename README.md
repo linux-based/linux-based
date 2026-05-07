@@ -16,7 +16,7 @@
         <!--<a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>-->
         <!--<a href="https://nonbinary.wiki/wiki/Multigender"><img title="Multigender" src="https://github.com/user-attachments/assets/58234007-2e1c-4155-8d72-76b45b0fbd5a"></a><br>-->
         <a href="https://antifandom.com/lgbtqia/wiki/Demiromantic"><img title="Demiromantic" src="https://github.com/user-attachments/assets/56f0d61b-c4f8-4130-bc2d-eb636362764d"></a>
-        <a href="https://lgbtqia.wiki/wiki/Demisexual"><img title="Demisexual" src="">
+        <a href="https://lgbtqia.wiki/wiki/Demisexual"><img title="Demisexual" src=""></a>
         <a href="https://antifandom.com/lgbtqia/wiki/Polyamorous"><img title="Polyamory" src="https://github.com/user-attachments/assets/1d9372b0-416b-4b6a-8058-818b06d94a7c"></a>
         <a href="https://antifandom.com/lgbtqia/wiki/Pansexual"><img title="Pansexual" src="https://github.com/user-attachments/assets/abaecee3-cbaf-485d-aa30-a103e2789010"></a>
         <a href="https://paraflags-wiki.org/index.php/General_paraphilia_flags"><img title="Paraphile" src="https://github.com/user-attachments/assets/f17b2688-4847-4bff-be32-3a4520bf83e4"></a>
