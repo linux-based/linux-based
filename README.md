@@ -16,7 +16,7 @@
         <!--<a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>-->
         <!--<a href="https://nonbinary.wiki/wiki/Multigender"><img title="Multigender" src="https://github.com/user-attachments/assets/58234007-2e1c-4155-8d72-76b45b0fbd5a"></a><br>-->
         <a href="https://antifandom.com/lgbtqia/wiki/Demiromantic"><img title="Demiromantic" src="https://github.com/user-attachments/assets/56f0d61b-c4f8-4130-bc2d-eb636362764d"></a>
-        <a href="https://lgbtqia.wiki/wiki/Demisexual"><img title="Demisexual" src=""></a>
+        <a href="https://lgbtqia.wiki/wiki/Demisexual"><img title="Demisexual_GitHub will not let me upload the flag sob" src=""></a><br>
         <a href="https://antifandom.com/lgbtqia/wiki/Polyamorous"><img title="Polyamory" src="https://github.com/user-attachments/assets/1d9372b0-416b-4b6a-8058-818b06d94a7c"></a>
         <a href="https://antifandom.com/lgbtqia/wiki/Pansexual"><img title="Pansexual" src="https://github.com/user-attachments/assets/abaecee3-cbaf-485d-aa30-a103e2789010"></a>
         <a href="https://paraflags-wiki.org/index.php/General_paraphilia_flags"><img title="Paraphile" src="https://github.com/user-attachments/assets/f17b2688-4847-4bff-be32-3a4520bf83e4"></a>
@@ -35,7 +35,7 @@
             <td>
               <div align="center">
                 <p>I am anti-censorship/"pro-ship" (cough common sense). Yes, I do do darkships. If that makes you uncomfy then I won't talk about them around you. Plain and simple.</p>
-                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> and maybe-OCD. Not sure why this is important, but it might be important to some people and explain some behaviors, so hear hear. Also do know that while, yes, I have issues, I don't make them my entire personality.</div>
+                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> and maybe-OCD. While, yes, I do have issues, I don't make them my entire personality & I'm working on them. I thought this would be important to mention incase I ever have a time where my mental health declines because the symptoms tend to get worse.</div>
               </div>
             </td>
           </tr>
@@ -50,19 +50,21 @@
               <div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
               <div><strong>Current — Writing, reading, & art</strong></div>
               <div>Other — Coding, math, science, martial arts</div>
-              <div>Music — Mostly anything. Some I can name: Metal, progressive rock, vaporwave, new wave, synthwave, disco, j-rock/j-pop, jungle/breakcore. Ok. Music geek alert.</div><br>
+              <div>Music — Mostly anything. I'm very much so a music geek. Some I can name: Metal, progressive rock, classic rock, new wave, vaporwave, synthwave, disco, j-rock/j-pop, jungle/breakcore, europop, ambient, ambient techno, and maybe hardcore.</div><br>
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div><strong>Stargate</strong></div>
+              <div><strong>MacGyver</strong> (new obsession send help I've only seen like 3 episodes and I'm already going crazy)</div>
               <div>Transformers</div>
               <div>OS-tan</div>
               <div>Robot Unicorn Attack</div>
               <div>Star Wars</div>
               <div>Babylon 5</div>
+              <div>Warriors (yes I was a Warrior cats kid)</div>
               <div>Egyptain Mythology</div>
               <div>Norse Mythology maybe</div>
-              <div>Any sci-fi crap. And I mean nice and happy (mostly) sci-fi, not ehhh cringes dystopian.</div>
-              <div><strong><em>There's more on my StrawPage =)</em></strong>
+              <div>I really like sci-fi and action-adventure stuff. I'm very extremely iffy with dystopians and grim/dark stuff. I love epic fantasies and I genuinely despise grimdark fantasy >=(</div>
+              <div><strong><em>There's (a few) more on my StrawPage =)</em></strong>
             </div>
           </td>
         </tr>
@@ -89,7 +91,7 @@
     ${\textsf{\color{#ce1313}Jack O'Neill}}$<br>
     ${\textsf{\color{#6ac4d1}DanielJackson}}$<br>
     ${\textsf{\color{#368947}Sam Carter}}$<br>
-    ${\textsf{\color{#bc8f2b}Apophis}}$ or something. This includes like. Egyptain Mythology Apophis more than Stargate Apophis.<br>
+    ${\textsf{\color{#bc8f2b}Apophis}}$ (both Stargate and real Apep)<br>
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
   <p>${{\color{#ffffff}\Huge{\textsf{Favorite Ships}}}}$<br>
@@ -107,14 +109,15 @@
       ${\textsf{\color{#FB5D5D}Data/Riker}}$<br>
       ${\textsf{\color{#E4BF2F}Jiles}}$<br>
       ${\textsf{\color{#FD99D0}P/K}}$<br>
-      ${\textsf{\color{#F033AB}JSeveeeennnn}}$<br>
+      ${\textsf{\color{#F033AB}J7}}$<br>
       ${\textsf{\color{#4112A8}Wavewave}}$<br>
       ${\textsf{\color{#F48732}Rodimags}}$<br>
       ${\textsf{\color{#9ED1FA}Opbee}}$<br>
       ${\textsf{\color{#7e259d}Kiradax}}$<br>
       ${\textsf{\color{#831d5a}Archepol}}$<br>
       ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
-      ${\textsf{\color{#aa0a29}ThorJack}}$
+      ${\textsf{\color{#aa0a29}ThorJack}}$<br>
+      I mostly ship anything soo 👍
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"></div>
@@ -123,10 +126,10 @@
           <tr>
             <td>
               <div align="center">
-                <p>NOOO drama for me, please keep me out of it.</p>
-                <p>I really don't mean to sound rude here, but if you have a PD or a mental disorder where you need emotional support from someone, I am really not the person for that since I have one myself :') (however— AVPDgang unite ✊️)</p>
-                <p>Don't give unwarrented critique. On anything. I make. Respectfully, you know, I didn't ask.</p>
-                <div>PonyTown people feel free to C+H always. No drama/trolling of any kind. I will block you.</div>
+                <p>I really don't do drama/discourse/anything like that. So uhm. Do keep me out of it please.</p>
+                <p>I really don't mean to sound rude here, but if you have a PD or a mental disorder where you need emotional support from someone, I am really not the person for that since I have one myself :') Specifically, if you have BPD or splitting episodes, do not become friends with me. People with AVPD are free to interact because I know about it and I can try to provide the best advice I can =)</p>
+                <p>Don't give critique on any art/stories I make. Respectfully, you know, I didn't ask. And that's just. Basic etiquette.</p>
+                <div>PonyTown people feel free to C+H always, but please don't cover me unless you're a friend. I'm not on PonyTown that often anymore, and if I am, I'm probably just sitting around and/or making skins.</div>
               </div>
             </td>
           </tr>
@@ -139,8 +142,9 @@
           <tr>
             <td>
               <div align="center">
-                <p>Very Tumblr-centric person since it's my favorite. You can ask for other socials, but I don't use social media— in general— that much.</p>
-                <div>I follow people back on this GitHub & I frequently sometimes make updates to this page.</div>
+                <p>Very Tumblr-centric person since it's my favorite. You can ask for other socials, but I don't use social media that much.</p>
+                <p>I stay away from Discord with a 10-foot pole so if you wanna message me, please do so on Tumblr. I'm usually very shy to DM but receptive to conversation, so if you wanna talk to me, shoot me a message!</p>
+                <div>I usually don't follow people first on here, but I follow back >=)</div>
               </div>
             </td>
           </tr>
@@ -183,5 +187,5 @@
         <img alt="openTheStargateBloodIncantation" src="https://github.com/user-attachments/assets/ba5fbd1e-78cc-4994-8e8c-26606dc8b02a">
       </details>
   <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/30e2541c44bf9274fca795fe33f8e135/62d023f1aad38884-13/s2048x3072/af34034e9ebd48b68c3f0625e7545ff55dadfd77.pnj"><br><br>
-<code>Feel free to ask for help with HTML stuffs! I know. Most of it. Also you can like. Copy any code from this page. I don't care =)</code>
+<code>Feel free to ask for help with HTML stuffs! You can copy any code from this page because I don't care =)</code>
 </div>
