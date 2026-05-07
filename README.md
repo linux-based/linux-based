@@ -63,7 +63,7 @@
               <div>Warriors (yes I was a Warrior cats kid)</div>
               <div>Egyptain Mythology</div>
               <div>Norse Mythology maybe</div>
-              <div>I really like sci-fi and action-adventure stuff. I'm very extremely iffy with dystopians and grim/dark stuff. I love epic fantasies and I genuinely despise grimdark fantasy >=(</div>
+              <div>I really like sci-fi and action-adventure stuff. I'm very extremely iffy with dystopians and grim/dark stuff. I love epic fantasies and I genuinely despise grimdark fantasy >=( I also like military stuff and comedy maybe but it usually has to be combined with sci-fi or action-adventure.</div>
               <div><strong><em>There's (a few) more on my StrawPage =)</em></strong>
             </div>
           </td>
