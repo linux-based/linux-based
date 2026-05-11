@@ -35,7 +35,8 @@
             <td>
               <div align="center">
                 <p>I am anti-censorship/"pro-ship" (cough common sense). Yes, I do do darkships. If that makes you uncomfy then I won't talk about them around you. Plain and simple.</p>
-                <div>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> and maybe-OCD. While, yes, I do have issues, I don't make them my entire personality & I'm working on them. I thought this would be important to mention incase I ever have a time where my mental health declines because the symptoms tend to get worse.</div>
+                <p>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> and maybe-OCD. While, yes, I do have issues, I don't make them my entire personality & I'm working on them. I thought this would be important to mention incase I ever have a time where my mental health declines because the symptoms tend to get worse.</p>
+                <p>Maybe kind of a fictionkin. IDM doubles AT ALL. I don't do any exclusionist or Puritan crap.</p>
               </div>
             </td>
           </tr>
