@@ -9,7 +9,7 @@
 <div align="center">
   <!--<img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/d00eb424b11c885e70681b2a0e8085d9/5b5768b53aad21c8-67/s1280x1920/515f6459f7ec3d9c72cb28ab4b8a1ea00828b7a3.gifv">
     <h1>Commander Riker</h1>
-      <p>Current Other Alias(es): Jack, Daniel</p>
+      <p>Current Other Alias(es): Jack, MacGyver</p>
       <p>Heyo if we're playing a game together please call me the name of the character I'm playing as</p>
       <p>
         <img title="Trans" alt="Trans" src="https://github.com/user-attachments/assets/9531435c-42f7-4cb2-a776-6bb2ea320a74">
@@ -36,7 +36,7 @@
               <div align="center">
                 <p>I am anti-censorship/"pro-ship" (cough common sense). Yes, I do do darkships. If that makes you uncomfy then I won't talk about them around you. Plain and simple.</p>
                 <p>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> and maybe-OCD. While, yes, I do have issues, I don't make them my entire personality & I'm working on them. I thought this would be important to mention incase I ever have a time where my mental health declines because the symptoms tend to get worse.</p>
-                <p>Maybe kind of a fictionkin. IDM doubles AT ALL. I don't do any exclusionist or Puritan crap.</p>
+                <p>I'm mostly sometimes fictionkin. There's a nice little list on my <a href="https://pronouns.cc/@debian1701">p.cc</a>. IDM doubles AT ALL. I don't do any exclusionist or Puritan crap (so no discourse).</p>
               </div>
             </td>
           </tr>
@@ -64,7 +64,7 @@
               <div>Warriors (yes I was a Warrior cats kid)</div>
               <div>Egyptain Mythology</div>
               <div>Norse Mythology maybe</div>
-              <div>I really like sci-fi and action-adventure stuff. I'm very extremely iffy with dystopians and grim/dark stuff. I love epic fantasies and I genuinely despise grimdark fantasy >=( I also like military stuff and comedy maybe but it usually has to be combined with sci-fi or action-adventure.</div>
+              <div>I really like sci-fi and action-adventure stuff. I dislike dystopians/grimdark because ugh the world is already too dark. Epic fantasies are cool. I also like military stuff and comedy maybe but it usually has to be combined with sci-fi or action-adventure.</div>
               <div><strong><em>There's (a few) more on my StrawPage =)</em></strong>
             </div>
           </td>
@@ -93,6 +93,7 @@
     ${\textsf{\color{#6ac4d1}DanielJackson}}$<br>
     ${\textsf{\color{#368947}Sam Carter}}$<br>
     ${\textsf{\color{#bc8f2b}Apophis}}$ (both Stargate and real Apep)<br>
+    ${\textsf{\color{#f17e31}MacGyver!}}$<br>
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
   <p>${{\color{#ffffff}\Huge{\textsf{Favorite Ships}}}}$<br>
