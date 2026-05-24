@@ -55,7 +55,7 @@
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div><strong>Stargate</strong></div>
-              <div><strong>MacGyver</strong> (new obsession send help I've only seen like 3 episodes and I'm already going crazy)</div>
+              <div><strong>MacGyver</strong> (new obsession send help I've only seen like <s>3 episodes</s> 5 seasons and I'm <s>already</s> going crazy)</div>
               <div>Transformers</div>
               <div>OS-tan</div>
               <div>Robot Unicorn Attack</div>
