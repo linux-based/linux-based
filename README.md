@@ -35,8 +35,8 @@
             <td>
               <div align="center">
                 <p>I am anti-censorship/"pro-ship" (cough common sense). Yes, I do do darkships. If that makes you uncomfy then I won't talk about them around you. Plain and simple.</p>
-                <p>I have <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> and maybe-OCD. While, yes, I do have issues, I don't make them my entire personality & I'm working on them. I thought this would be important to mention incase I ever have a time where my mental health declines because the symptoms tend to get worse.</p>
-                <p>I'm mostly sometimes fictionkin. There's a nice little list on my <a href="https://pronouns.cc/@debian1701">p.cc</a>. IDM doubles AT ALL. I don't do any exclusionist or Puritan crap (so no discourse).</p>
+                <p>I recently had a case of <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">super-duper shyness</a>, but I've put a lot of work into changing that.</p>
+                <div>I'm sometimes a fictionkin. There's a nice little list on my <a href="https://pronouns.cc/@debian1701">p.cc</a>. IDM doubles AT ALL. I don't do any exclusionist or Puritan crap (so no discourse).</div>
               </div>
             </td>
           </tr>
@@ -51,7 +51,7 @@
               <div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
               <div><strong>Current — Writing, reading, & art</strong></div>
               <div>Other — Coding, math, science, martial arts</div>
-              <div>Music — Mostly anything. I'm very much so a music geek. Some I can name: Metal, progressive rock, classic rock, new wave, vaporwave, synthwave, disco, j-rock/j-pop, jungle/breakcore, europop, ambient, ambient techno, and maybe hardcore.</div><br>
+              <div>Music — Mostly anything. I'm very much so a music geek. Some I can name: Metal, progressive rock, classic rock, new wave, vaporwave, synthwave, disco, j-rock/j-pop, jungle/breakcore, europop, ambient, ambient techno, reggae, and maybe hardcore.</div><br>
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div><strong>Stargate</strong></div>
@@ -64,8 +64,12 @@
               <div>Warriors (yes I was a Warrior cats kid)</div>
               <div>Egyptain Mythology</div>
               <div>Norse Mythology maybe</div>
-              <div>I really like sci-fi and action-adventure stuff. I dislike dystopians/grimdark because ugh the world is already too dark. Epic fantasies are cool. I also like military stuff and comedy maybe but it usually has to be combined with sci-fi or action-adventure.</div>
-              <div><strong><em>There's (a few) more on my StrawPage =)</em></strong>
+              <div>Conan the Destroyer? The Conquerer? The King?</div>
+              <div>Utopian & hopeful stuff is my favorite thing ever, and I really despise dystopians & grimdark.</div>
+              <div>Fave genres are sci-fi (of course), action-adventure, military, epic/old fantasies, and I love a little-lot of comedy sprinkled into everything.</div>
+              <div>I'm a certified SGA hater because all they do are commit warcrimes.</div>
+              <div>My favorite Star Trek shows are TOS, <strong>TNG</strong>, and Enterprise. I also adore LWD. And worry not, I love the other Star Trek shows too.</div>
+              <div><strong><em>There's (a few) more on my StrawPage =)</em></strong></div>
             </div>
           </td>
         </tr>
@@ -94,12 +98,15 @@
     ${\textsf{\color{#368947}Sam Carter}}$<br>
     ${\textsf{\color{#bc8f2b}Apophis}}$ (both Stargate and real Apep)<br>
     ${\textsf{\color{#f17e31}MacGyver!}}$<br>
+    ${\textsf{\color{#ffffff}everyone to ever exist}}$<br>
+    If you're a villian hater then shoooo!
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
   <p>${{\color{#ffffff}\Huge{\textsf{Favorite Ships}}}}$<br>
-      Current Favorite: ${\textsf{\color{#ffcd5e}SG1cule}}$<br>
+      Current Favorite: ${\textsf{\color{#ffffff}I guess we'll never know}}$<br>
       OTP: ${\textsf{\color{#85fffc}Jack/Daniel}}$ <s>whiskeyshipping hah</s><br>
       OT3: ${\textsf{\color{#5993F7}McSprik}}$<br>
+      OT4: ${\textsf{\color{#ffcd5e}SG1cule}}$<br>
       Rare-TP: ${\textsf{\color{#CC1F3B}Riker/Picard}}$<br>
       Old-TPs: ${\textsf{\color{#D0D9FA}Megastar}}$ & ${\textsf{\color{#B2A7F9}Obikin}}$<br>
       ${\textsf{\color{#F9B448}Kirk/Spock}}$<br>
@@ -119,6 +126,9 @@
       ${\textsf{\color{#831d5a}Archepol}}$<br>
       ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
       ${\textsf{\color{#aa0a29}ThorJack}}$<br>
+      ${\textsf{\color{#fc0f02}Jackgyver}}$<br>
+      ${\textsf{\color{#fc027b}Macer(Penny/Mac)}}$<br>
+      ${\textbf{\color{#ffffff}A whole bunch of other stuff}}$<br>
       I mostly ship anything soo 👍
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
@@ -129,15 +139,31 @@
             <td>
               <div align="center">
                 <p>I really don't do drama/discourse/anything like that. So uhm. Do keep me out of it please.</p>
-                <p>I really don't mean to sound rude here, but if you have a PD or a mental disorder where you need emotional support from someone, I am really not the person for that since I have one myself :') Specifically, if you have BPD or splitting episodes, do not become friends with me. People with AVPD are free to interact because I know about it and I can try to provide the best advice I can =)</p>
-                <p>Don't give critique on any art/stories I make. Respectfully, you know, I didn't ask. And that's just. Basic etiquette.</p>
-                <div>PonyTown people feel free to C+H always, but please don't cover me unless you're a friend. I'm not on PonyTown that often anymore, and if I am, I'm probably just sitting around and/or making skins.</div>
+                <p>Despite being a fictionkin, I stay <a href="https://antifandom.com/stargate/wiki/Stargate">a stargate</a> away from chronically online crap. It's just a term that seems to match my experience.</p>
+                <div>Don't give critique on any art, stories, or blinkies I make. Respectfully, you know, I didn't ask. And that's just. Basic etiquette.</div>
               </div>
             </td>
           </tr>
         </TABLE>
       </details>
-<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
+<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">-->
+<!--SUCK MY DICK GITHUB-->
+  <img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
+    <div><img src="">Political</div>
+      <details><summary></summary>
+        <TABLE BORDER>
+          <tr>
+            <td>
+              <div align="center">
+                <p>I really don't like using labels, but I like whatever <a href="https://antifandom.com/memory-alpha/wiki/United_Federation_of_Planets">the Federation</a> has going on. I think that's a future we should work towards.</p>
+                <div><a href="https://antifandom.com/memory-alpha/wiki/IDIC">IDIC</a> is a really great principle.</div>
+              </div>
+            </td>
+          </tr>
+        </TABLE>
+      </details>
+<!--SERIOUSLY, SUCK IT. I DONT HAVE TIME FOR YOUR SHITTY GLITCHY ASS CRAP!!!-->
+  <img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img width="103" height="29" alt="Social Media" src="https://github.com/user-attachments/assets/69c2a17e-fcd4-43a9-9b44-715906f004a3"></div>
       <details><summary></summary>
         <TABLE BORDER>
@@ -145,8 +171,7 @@
             <td>
               <div align="center">
                 <p>Very Tumblr-centric person since it's my favorite. You can ask for other socials, but I don't use social media that much.</p>
-                <p>I stay away from Discord with a 10-foot pole so if you wanna message me, please do so on Tumblr. I'm usually very shy to DM but receptive to conversation, so if you wanna talk to me, shoot me a message!</p>
-                <div>I usually don't follow people first on here, but I follow back >=)</div>
+                <div>I stay away from Discord (cough and other social media) with a 10-foot pole so if you wanna message me, please do so on Tumblr. I'm usually very shy to DM but receptive to conversation, so if you wanna talk to me, shoot me a message!</div>
               </div>
             </td>
           </tr>
