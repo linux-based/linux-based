@@ -9,8 +9,7 @@
 <div align="center">
   <!--<img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif"><img src="https://64.media.tumblr.com/d00eb424b11c885e70681b2a0e8085d9/5b5768b53aad21c8-67/s1280x1920/515f6459f7ec3d9c72cb28ab4b8a1ea00828b7a3.gifv">--><img src="https://64.media.tumblr.com/27c0ff8187d3d62bfd8b4f79c2bc5468/1448b31dbe408908-20/s400x600/bc96d3e3e42b4ddd412e9b4a7d1388c13df8f438.gifv">
     <h1>Commander Riker</h1>
-      <p>Current Other Alias(es): <strong>Seven</strong>, Janeway, <em>Jack, MacGyver</em></p>
-      <p>Heyo if we're playing a game together please call me the name of the character I'm playing as</p>
+      <p>Current Other Alias(es): <strong>Seven</strong>, Janeway, Data, honestly any of the TNG crew if u know them</p>
       <p>
         <img title="Trans" alt="Trans" src="https://github.com/user-attachments/assets/9531435c-42f7-4cb2-a776-6bb2ea320a74">
         <!--<a href="https://nonbinary.wiki/wiki/Abrogender"><img title="Abrogender" src="https://github.com/user-attachments/assets/fa969d83-dda8-432d-80df-b1c6793a4473"></a>-->
@@ -19,7 +18,7 @@
         <a href="https://lgbtqia.wiki/wiki/Demisexual"><img title="Demisexual" src="https://64.media.tumblr.com/54d72f9ce80f188da31a7116d597f643/1448b31dbe408908-0b/s75x75_c1/64a40b6cf57277c6e62931bb1ca5ad62fd649682.jpg"></a><br>
         <a href="https://antifandom.com/lgbtqia/wiki/Polyamorous"><img title="Polyamory" src="https://github.com/user-attachments/assets/1d9372b0-416b-4b6a-8058-818b06d94a7c"></a>
         <a href="https://antifandom.com/lgbtqia/wiki/Pansexual"><img title="Pansexual" src="https://github.com/user-attachments/assets/abaecee3-cbaf-485d-aa30-a103e2789010"></a>
-        <a href="https://paraflags-wiki.org/index.php/General_paraphilia_flags"><img title="Paraphile" src="https://github.com/user-attachments/assets/f17b2688-4847-4bff-be32-3a4520bf83e4"></a>
+        <a href="https://paraflags-wiki.org/index.php/General_paraphilia_flags"><img title="Paraphile. I am mostly techtum/objectum. Err. A few other ones occasionally pop in" src="https://github.com/user-attachments/assets/f17b2688-4847-4bff-be32-3a4520bf83e4"></a>
         <!--<a href="https://antifandom.com/lgbtqia/wiki/Abrosexual"><img title="Abrosexual" src="https://github.com/user-attachments/assets/a397d219-8dd2-43d3-a74e-7ce3ef57ff9b"></a>
         <a href="https://lgbtqia.wiki/wiki/Neverisexual"><img title="Neverisexual" src="https://github.com/user-attachments/assets/e4070abd-5327-4aac-9f81-2cb1f3b3b559"></a><br>
         <a href="https://antifandom.com/lgbtqia/wiki/Abroromantic"><img title="Abroromantic" src="https://github.com/user-attachments/assets/6311cb79-efad-4ccf-8f5f-0a3835e7e5b7"></a>-->
@@ -35,8 +34,8 @@
             <td>
               <div align="center">
                 <p>I am anti-censorship/"pro-ship" (cough common sense). Yes, I do do darkships. If that makes you uncomfy then I won't talk about them around you. Plain and simple. Also don't you <em>dare</em> define me by this one lable.</p>
-                <p>I have very bad <a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> (avoidant personality disorder), or at least it has been very bad in the past. I've gone through a lot of child abuse, so I have a very very hard time socializing. I'm activiely working against the symptoms and I've come a long way, but I'm not perfect. Nobody is.</p>
-                <div>I'm a fictionkin. There's a nice little list on my <a href="https://pronouns.cc/@debian1701">p.cc</a>. I kinda think the hate on doubles thing is a little silly, so feel free to interact if you're a double =). I do not really engage with the community much, so be warned, I guess. My fictionkins change show-by-show, but they're always with me. I <em>will</em> usually very likely-y pick up the personality of the character(s) I am kinning. (And of course, it goes beyond that because it's kinning)</div>
+                <p><a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> + OCD + maybe something else who knows 🤷 My AVPD isn't as bad anymore, but it has been extremely bad in the past. Due to my PD, I have a hard time being.. open? Vulnerable? with people. At least, it feels unnatural and I am kind of tenative about it. Tho, I still try =) OCD only really kicks up when I get triggered, and AVPD can definitely come back full-on if I get triggered. DW, none of these triggers are things you can cause: They are real life things :,)</p>
+                <div>Err I'm a fictionkin, probably. See my <a href="https://pronouns.cc/@debian1701">p.cc</a>! Doubles please actually do interact. I love you. There's more info on my.. pcc..</div>
               </div>
             </td>
           </tr>
@@ -51,7 +50,7 @@
               <div>${{\color{#feca5f}\Huge{\textsf{Interests}}}}$</div>
               <div><strong>Current — Writing, reading, & art</strong></div>
               <div>Other — Coding, math, science, martial arts</div>
-              <div>Music — Mostly anything. I'm very much so a music geek. Some I can name: Metal, progressive rock, classic rock, new wave, vaporwave, synthwave, disco, j-rock/j-pop, jungle/breakcore, europop, ambient, ambient techno, reggae, and maybe hardcore.</div><br>
+              <div>Music — Mostly anything. I'm very much so a music geek. Some I can name: Metal (fucking love all the genres no discrimination), progressive rock, classic rock, new wave, vaporwave, synthwave, disco, j-rock/j-pop, jungle/breakcore, europop, ambient, ambient techno, reggae, and maybe hardcore.</div><br>
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div><strong>Stargate</strong></div>
@@ -69,8 +68,9 @@
               <div><strong>Utopians & hopeful media</strong> are my favorite. Dark stuff? Not my slice of cake. Pie. Whatever.</div>
               <div>I heart sci-fi</div>
               <div>Attention 'Gaters, I don't really like <del>Warcimes X-treme</del> I mean SGA but I'll watch it for you...</div>
-              <div>Cough my favorite Star Trek show changes when I watch one. But. I think. Maybe. TNG is my favorite. Just because.</div>
-              <div><strong><em>There's like a few more on my StrawPage =)</em></strong></div>
+              <div>Cough my favorite Star Trek show changes when I watch one. But. I think. Maybe. TNG is my favorite. Just because. Or TOS. Haha indecisive</div>
+              <div>Trekkies pls int I need someone to yap to</div>
+              <div><strong><em>There's a few more on my StrawPage =)</em></strong></div>
             </div>
           </td>
         </tr>
@@ -129,23 +129,29 @@
       ${\textsf{\color{#fc027b}Macer(Penny/Mac)}}$<br>
       Anything goes. No judgment here.
   </p>
-<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj">--><img src="https://64.media.tumblr.com/157b90f28b1035ffde306421d4f5f3c2/1448b31dbe408908-37/s1280x1920/5952405e2516ddcb7531ae268cf55f5775025219.gifv"><br><br>
-    <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"></div>
+<!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj">--><img src="https://64.media.tumblr.com/157b90f28b1035ffde306421d4f5f3c2/1448b31dbe408908-37/s1280x1920/5952405e2516ddcb7531ae268cf55f5775025219.gifv" title="why the fuck is this bitch so big"><br><br>
+    <div><img width="95" height="29" alt="Boundaries & Extra Stuff" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"> & Extra Stuff</div>
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
             <td>
               <div align="center">
-                <p>I really don't do drama/discourse/anything like that. So uhm. Do keep me out of it please.</p>
-                <p>Despite being a fictionkin, I stay <a href="https://antifandom.com/stargate/wiki/Stargate">a stargate</a> away from chronically online crap. It's just a term that seems to match my experience.</p>
-                <div>Don't give critique on any art, stories, or blinkies I make. Respectfully, you know, I didn't ask. And that's just. Basic etiquette.</div>
+                <p>No chronically online crap, drama, discourse, whatever. Plz and thanks.</p>
+                <p>Don't give critique on any art, stories, or blinkies I make. Respectfully, you know, I didn't ask. And that's just. Basic etiquette.</p>
+                <p>Err fuck neo-liberalism, capitalism, fascism, all that shit. Actually people need to know what neo-liberalism is because its so fucking engrained into everything people don't even realize it</p>
+                <p>Noooo.. infighting. Like, if you're a leftist, haha.. we're on the same side. Don't go at me guns blazing.. thats what the evil overseers want...</p>
+                <p>I fucking love the <a href="https://antifandom.com/memory-alpha/wiki/United_Federation_of_Planets">Federation</a> and <a href="https://antifandom.com/memory-alpha/wiki/IDIC">IDIC</a></p>
+                <p>The death penalty is never justified no youre not god calm that ego of yours.</p>
+                <p>Social media? I use Tumblr, mostly. Post my art and blinkies there. TT: riker.torrent, but I only use it for my fellow Trekkies and friends =) Discord: borgdata</p>
+                <p><a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=d74ae44c268246ce">Spotify</a> I make wayy too manyyy playlists for everything ever.</p>
+                <div>PonyTown? I don't play as often but I'm fine with C+H, int, and whatnot =)</div>
               </div>
             </td>
           </tr>
         </TABLE>
       </details>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">-->
-<!--SUCK MY DICK GITHUB-->
+<!--SUCK MY DICK GITHUB
   <img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img src="">Political</div>
       <details><summary></summary>
@@ -159,8 +165,8 @@
             </td>
           </tr>
         </TABLE>
-      </details>
-<!--SERIOUSLY, SUCK IT. I DONT HAVE TIME FOR YOUR SHITTY GLITCHY ASS CRAP!!!-->
+      </details>-->
+<!--SERIOUSLY, SUCK IT. I DONT HAVE TIME FOR YOUR SHITTY GLITCHY ASS CRAP!!!
   <img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img width="103" height="29" alt="Social Media" src="https://github.com/user-attachments/assets/69c2a17e-fcd4-43a9-9b44-715906f004a3"></div>
       <details><summary></summary>
@@ -174,7 +180,7 @@
             </td>
           </tr>
         </TABLE>
-      </details>
+      </details>-->
  <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30">--><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj"><br><br>
     <div><img width="105" height="29" alt="Blinkie Hoard" src="https://github.com/user-attachments/assets/435e03a7-033e-4000-ab4b-d23740a0ccf5"></div>
       <details><summary></summary>
