@@ -223,6 +223,8 @@
         <img alt="sapceballs" src="https://64.media.tumblr.com/f701468e9edddc4d9542c15d6cea63fc/25588328699e14d0-ef/s250x400/e24d0b52db98b2095e7105136a6586e1381d5249.gifv">
         <img alt="yoda" src="https://64.media.tumblr.com/4e8f5f4301c8ac92070a10e5a998d948/25588328699e14d0-e5/s250x400/f9236cc42c294a4578f6236c46ac5bc2218fe8e2.gifv">
         <br>
+        <img alt="winamp" src="https://64.media.tumblr.com/33707b9c4085e2e8bbe52c75ed97555a/25588328699e14d0-43/s250x400/cf0e09377349911c206590991f196148afcbfef9.gifv">
+        <br>
         <img alt="Wormhole X-treme!" src="https://64.media.tumblr.com/a59e11e106cbf272e51361350164bf21/8364491d6bbe1b1d-da/s100x200/7c5a123d45c8273099c936ab5c9ac73ba21c9491.gifv">
       </details>
   <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/30e2541c44bf9274fca795fe33f8e135/62d023f1aad38884-13/s2048x3072/af34034e9ebd48b68c3f0625e7545ff55dadfd77.pnj"><br><br>
