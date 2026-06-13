@@ -34,8 +34,7 @@
             <td>
               <div align="center">
                 <p>I am anti-censorship/"pro-ship" (cough common sense). Yes, I do do darkships. If that makes you uncomfy then I won't talk about them around you. Plain and simple. Also don't you <em>dare</em> define me by this one lable.</p>
-                <p><a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> + OCD + maybe something else who knows 🤷 My AVPD isn't as bad anymore, but it has been extremely bad in the past. Due to my PD, I have a hard time being.. open? Vulnerable? with people. At least, it feels unnatural and I am kind of tenative about it. Tho, I still try =) OCD only really kicks up when I get triggered, and AVPD can definitely come back full-on if I get triggered. DW, none of these triggers are things you can cause: They are real life things :,)</p>
-                <div>Err I'm a fictionkin, probably. See my <a href="https://pronouns.cc/@debian1701">p.cc</a>! Doubles please actually do interact. I love you. There's more info on my.. pcc..</div>
+                <div><a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> + OCD + C-PTSD. I don't list these off to brag: My mental disorders genuinely change how I react to things.</div>
               </div>
             </td>
           </tr>
@@ -54,7 +53,7 @@
               <div>${{\color{#5fa6fe}\Huge{\textsf{Fandoms}}}}$</div>
               <div><strong>Star Trek</strong></div>
               <div><strong>Stargate</strong></div>
-              <div>MacGyver <em>I was sooo obsessed with this show & how optimistic it was</em></div>
+              <div>MacGyver</div>
               <div>Galaxy Quest</div>
               <div>Transformers</div>
               <div>OS-tan</div>
@@ -64,12 +63,9 @@
               <div>Warriors (yes I was a Warrior cats kid)</div>
               <div>Egyptain Mythology</div>
               <div>Norse Mythology maybe</div>
-              <div>Conan the Destroyer? The Conquerer? The King?</div>
               <div><strong>Utopians & hopeful media</strong> are my favorite. Dark stuff? Not my slice of cake. Pie. Whatever.</div>
               <div>I heart sci-fi</div>
-              <div>Attention 'Gaters, I don't really like <del>Warcimes X-treme</del> I mean SGA but I'll watch it for you...</div>
-              <div>Cough my favorite Star Trek show changes when I watch one. But. I think. Maybe. TNG is my favorite. Just because. Or TOS. Haha indecisive</div>
-              <div>Trekkies pls int I need someone to yap to</div>
+              <div>Cough my favorite Star Trek show changes when I watch one. But. I think. Maybe. TNG is my favorite. Just because. Or TOS. Or LWD. Haha indecisive</div>
               <div><strong><em>There's a few more on my StrawPage =)</em></strong></div>
             </div>
           </td>
@@ -125,26 +121,19 @@
       ${\textsf{\color{#831d5a}Archepol}}$<br>
       ${\textsf{\color{#8cc9ff}Shrancher}}$<br>
       ${\textsf{\color{#aa0a29}ThorJack}}$<br>
-      ${\textsf{\color{#fc0f02}Jackgyver}}$<br>
-      ${\textsf{\color{#fc027b}Macer(Penny/Mac)}}$<br>
       Anything goes. No judgment here.
   </p>
 <!--<img src="https://64.media.tumblr.com/4da73cf0c2103d30fdc95122fc6fb3d1/67070dadb5b7d37c-67/s400x600/601240dd5a05b27f411cbe66ba1b82e5f5449408.gifv" height="30"><img src="https://64.media.tumblr.com/884f18a3c1bd986db0b44e8a4fc1986a/eb62dd4db751e225-81/s2048x3072/e33dbefb72156b90151cd4b8e9b44f5812c474d6.pnj">--><img src="https://64.media.tumblr.com/157b90f28b1035ffde306421d4f5f3c2/1448b31dbe408908-37/s1280x1920/5952405e2516ddcb7531ae268cf55f5775025219.gifv" title="why the fuck is this bitch so big"><br><br>
-    <div><img width="95" height="29" alt="Boundaries & Extra Stuff" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"> & Extra Stuff</div>
+    <div><img width="95" height="29" alt="Boundaries" src="https://github.com/user-attachments/assets/0fd6e388-f071-44cc-a52f-6a4cbdc0aa98"> & Other Stuff</div>
       <details><summary></summary>
         <TABLE BORDER>
           <tr>
             <td>
               <div align="center">
-                <p>No chronically online crap, drama, discourse, whatever. Plz and thanks.</p>
-                <p>Don't give critique on any art, stories, or blinkies I make. Respectfully, you know, I didn't ask. And that's just. Basic etiquette.</p>
-                <p>Err fuck neo-liberalism, capitalism, fascism, all that shit. Actually people need to know what neo-liberalism is because its so fucking engrained into everything people don't even realize it</p>
-                <p>Noooo.. infighting. Like, if you're a leftist, haha.. we're on the same side. Don't go at me guns blazing.. thats what the evil overseers want...</p>
-                <p>I fucking love the <a href="https://antifandom.com/memory-alpha/wiki/United_Federation_of_Planets">Federation</a> and <a href="https://antifandom.com/memory-alpha/wiki/IDIC">IDIC</a></p>
-                <p>The death penalty is never justified no youre not god calm that ego of yours.</p>
-                <p>Social media? I use Tumblr, mostly. Post my art and blinkies there. TT: riker.torrent, but I only use it for my fellow Trekkies and friends =) Discord: borgdata</p>
-                <p><a href="https://open.spotify.com/user/31l5e4puhwchdhd4yfww4z547hei?si=d74ae44c268246ce">Spotify</a> I make wayy too manyyy playlists for everything ever.</p>
-                <div>PonyTown? I don't play as often but I'm fine with C+H, int, and whatnot =)</div>
+                <p>Don't critique my creations.</p>
+                <p>I am anti-cap, anti-neolib, anti-fa, etc. I fall somewhere in the left side of things. <a href="https://antifandom.com/memory-alpha/wiki/United_Federation_of_Planets">United Federation of Planets</a> <3 <a href="https://antifandom.com/memory-alpha/wiki/IDIC">IDIC</a> <3</p>
+                <p>Social media is uncommon for me, but I use Tumblr the most. You can ask for others.</p>
+                <div>PonyTown? I don't play as often but I'm fine with C+H, int, and whatnot =) Keep me out of your silly drama.</div>
               </div>
             </td>
           </tr>
