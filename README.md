@@ -59,6 +59,10 @@
               <div>OS-tan</div>
               <div>Robot Unicorn Attack</div>
               <div>Star Wars</div>
+              <div>Spaceballs</div>
+              <div>Top Gun</div>
+              <div>Dune</div>
+              <div>H2G2</div>
               <div>Babylon 5</div>
               <div>Warriors (yes I was a Warrior cats kid)</div>
               <div>Egyptain Mythology</div>
@@ -66,7 +70,7 @@
               <div><strong>Utopians & hopeful media</strong> are my favorite. Dark stuff? Not my slice of cake. Pie. Whatever.</div>
               <div>I heart sci-fi</div>
               <div>Cough my favorite Star Trek show changes when I watch one. But. I think. Maybe. TNG is my favorite. Just because. Or TOS. Or LWD. Haha indecisive</div>
-              <div><strong><em>There's a few more on my StrawPage =)</em></strong></div>
+              <div><strong><em>There's a few more NOT on my StrawPage because there's a Trojan?????</em></strong></div>
             </div>
           </td>
         </tr>
