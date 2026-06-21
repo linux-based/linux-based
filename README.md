@@ -235,7 +235,7 @@
 <code>Feel free to ask for help with HTML stuffs! You can copy any code from this page because I don't care =)</code><br><br>
     <div>Affectionate geek stuff</div>
       <details><summary></summary>
-        <p>LOOOOOOOOK at my baby <em>Daedalus class</em></p>
+        <p>LOOOOOOOOK at my baby <em>Daedalus</em> class</p>
         <img src="https://64.media.tumblr.com/ec2a30c76f866742be7911015dbd832c/1448b31dbe408908-3d/s1280x1920/db8d586385ee790bd7ca5fb31b2c40a481b31e7c.jpg">
         <div>ITS SOOO TIIIINYYYYYYYYYYYYYYY</div>
         <img src="https://64.media.tumblr.com/d900a39455626d261517de23c96f2232/1448b31dbe408908-22/s1280x1920/1f58d05369ca0ddf6e15bdd6d7ce65bb26610639.jpg">
