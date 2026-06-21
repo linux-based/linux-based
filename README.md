@@ -232,5 +232,12 @@
         <img alt="Wormhole X-treme!" src="https://64.media.tumblr.com/a59e11e106cbf272e51361350164bf21/8364491d6bbe1b1d-da/s100x200/7c5a123d45c8273099c936ab5c9ac73ba21c9491.gifv">
       </details>
   <!--<img src="https://github.com/user-attachments/assets/46207e58-ac2d-4501-9e46-ab17c79d7ac0"><img src="https://pixelsafari.neocities.org/dividers/more/stripe2.gif">--><img src="https://64.media.tumblr.com/30e2541c44bf9274fca795fe33f8e135/62d023f1aad38884-13/s2048x3072/af34034e9ebd48b68c3f0625e7545ff55dadfd77.pnj"><br><br>
-<code>Feel free to ask for help with HTML stuffs! You can copy any code from this page because I don't care =)</code>
+<code>Feel free to ask for help with HTML stuffs! You can copy any code from this page because I don't care =)</code><br><br>
+    <div>Affectionate geek stuff</div>
+      <details><summary></summary>
+        <p>LOOOOOOOOK at my baby <em>Daedalus class</em></p>
+        <img src="https://64.media.tumblr.com/ec2a30c76f866742be7911015dbd832c/1448b31dbe408908-3d/s1280x1920/db8d586385ee790bd7ca5fb31b2c40a481b31e7c.jpg">
+        <div>ITS SOOO TIIIINYYYYYYYYYYYYYYY</div>
+        <img src="https://64.media.tumblr.com/d900a39455626d261517de23c96f2232/1448b31dbe408908-22/s1280x1920/1f58d05369ca0ddf6e15bdd6d7ce65bb26610639.jpg">
+      </details>
 </div>
