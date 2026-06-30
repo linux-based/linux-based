@@ -34,7 +34,7 @@
             <td>
               <div align="center">
                 <p>I am anti-censorship/"pro-ship" (cough common sense). Yes, I do do darkships. If that makes you uncomfy then I won't talk about them around you. Plain and simple. Also don't you <em>dare</em> define me by this one lable.</p>
-                <div><a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> + OCD + C-PTSD. I don't list these off to brag: My mental disorders genuinely change how I react to things.</div>
+                <div><a href="https://www.merckmanuals.com/professional/psychiatric-disorders/personality-disorders/avoidant-personality-disorder-avpd">AVPD</a> + OCD + C-PTSD. I don't list these off to brag; my mental disorders genuinely change how I react to things.</div>
               </div>
             </td>
           </tr>
@@ -69,8 +69,7 @@
               <div>Norse Mythology maybe</div>
               <div><strong>Utopians & hopeful media</strong> are my favorite. Dark stuff? Not my slice of cake. Pie. Whatever.</div>
               <div>I heart sci-fi</div>
-              <div>Cough my favorite Star Trek show changes when I watch one. But. I think. Maybe. TNG is my favorite. Just because. Or TOS. Or LWD. Haha indecisive</div>
-              <div><strong><em>There's a few more NOT on my StrawPage because there's a Trojan?????</em></strong></div>
+              <div>Cough my favorite Star Trek show changes when I watch one. But. I think. Maybe. TNG is my favorite. Just because. Or TOS. Or LWD. Haha indecisive. No I'm just kidding it's TNG. GO WATCH THE WOKE PROPAGANDA!!</div>
             </div>
           </td>
         </tr>
@@ -134,10 +133,10 @@
           <tr>
             <td>
               <div align="center">
-                <p>Don't critique my creations.</p>
-                <p>I am anti-cap, anti-neolib, anti-fa, etc. I fall somewhere in the left side of things. <a href="https://antifandom.com/memory-alpha/wiki/United_Federation_of_Planets">United Federation of Planets</a> <3 <a href="https://antifandom.com/memory-alpha/wiki/IDIC">IDIC</a> <3</p>
-                <p>Social media is uncommon for me, but I use Tumblr the most. You can ask for others.</p>
-                <div>PonyTown? I don't play as often but I'm fine with C+H, int, and whatnot =) Keep me out of your silly drama.</div>
+                <p>Don't critique my creations. Basic etiquette is knocking at your door.</p>
+                <p>Blah blah blah fuck labels I hate capitalism and I love these -> <a href="https://antifandom.com/memory-alpha/wiki/United_Federation_of_Planets">United Federation of Planets</a> <3 <a href="https://antifandom.com/memory-alpha/wiki/IDIC">IDIC</a> <3</p>
+                <p>Tumblr is my main social. Disc is borgdata. No, I don't leave it open 24/7 and get super involved in random server drama.</p>
+                <div>PonyTown? I don't play as often but I'm fine with C+H, int, and whatnot =) Keep me out of your silly drama. cough</div>
               </div>
             </td>
           </tr>
@@ -239,5 +238,6 @@
         <img src="https://64.media.tumblr.com/ec2a30c76f866742be7911015dbd832c/1448b31dbe408908-3d/s1280x1920/db8d586385ee790bd7ca5fb31b2c40a481b31e7c.jpg">
         <div>ITS SOOO TIIIINYYYYYYYYYYYYYYY</div>
         <img src="https://64.media.tumblr.com/d900a39455626d261517de23c96f2232/1448b31dbe408908-22/s1280x1920/1f58d05369ca0ddf6e15bdd6d7ce65bb26610639.jpg">
+        <div>i want to dedicate a section to objectum gushing haha I might but im too lazy for that right now</div>
       </details>
 </div>
